@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 email_sender = 'ucscmenuapp@gmail.com'
 email_password = 'zhubiwjiwzhktqct'
-email_receiver = 'titan36541@gmail.com'
+email_receiver = ''
 
 subject = 'Hello World'
 body = """This email was sent using Python :)"""

@@ -3,14 +3,15 @@ import re
 import unicodedata
 from bs4 import BeautifulSoup
 from copy import deepcopy
-from datetime import datetime
+# from datetime import datetime, timedelta
+import datetime
 import sqlite3
 import time
 
 def menu_scrape():
     url = 'https://nutrition.sa.ucsc.edu/'
     halls_html = ['text=College Nine/John R. Lewis Dining Hall', 'text=Cowell/Stevenson Dining Hall', 'text=Crown/Merrill Dining Hall', 'text=Porter/Kresge Dining Hall']
-    dates = ["Today", "Tomorrow", "Day after tommorw"]
+    dates = [str(datetime.date.today() + datetime.timedelta(days=i)) for i in range(7)]
     halls_name = ['Nine', 'Cowell', 'Merrill', 'Porter']
     meals = ["Breakfast", "Lunch", "Dinner", "Late Night"]
     food_cat = {"Breakfast": [], "Soups": [], "Entrees": [], "Grill": [], "Pizza": [], "Clean Plate": [], "Bakery": [], "Open Bars": [], "DH Baked": [], "Plant Based Station": [], "Miscellaneous": [], "Brunch": []}
@@ -44,7 +45,7 @@ def menu_scrape():
                 if index == 0:
                     options = date_option.locator("option").all_inner_texts()
                     for item in options:
-                        if str(datetime.now().day) in item:
+                        if str(datetime.date.day) in item:
                             index = options.index(item)                 # find index of current day's date
                             break
                 date_option.select_option(index=index)                  # select day
@@ -83,7 +84,11 @@ def menu_scrape():
                     meal_cat = meal_cat
                     continue
                 else:                                                   # Append meals to dictionary
-                    hall_menus[date][halls_name[j]][meal_time][meal_cat].append(i)
+                    try:
+                        hall_menus[date][halls_name[j]][meal_time][meal_cat].append(i)
+                    except:
+                        hall_menus[date][halls_name[j]][meal_time].update({meal_cat: []})
+                        hall_menus[date][halls_name[j]][meal_time][meal_cat].append(i)
 
     return hall_menus
 
@@ -97,7 +102,7 @@ conn = sqlite3.connect("menus.db")
 conn.execute('''
 CREATE TABLE IF NOT EXISTS menu (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    day TEXT NOT NULL,
+    date DATE NOT NULL,
     name TEXT NOT NULL,
     meal TEXT NOT NULL,
     category TEXT NOT NULL,
@@ -106,17 +111,24 @@ CREATE TABLE IF NOT EXISTS menu (
 ''')
 
 startTime = time.time()
-for day, names in hall_menus.items():
+for date, names in hall_menus.items():
     for name, meals in names.items():
         for meal, cats in meals.items():
             for cat, items in cats.items():
                 if len(items) > 0:
                     for item in items:
+                        # date_obj = datetime.datetime.strptime(date, '%Y-%m-%d').date()
                         # write to database
-                        conn.execute('INSERT INTO menu (day, name, meal, category, item) VALUES (?, ?, ?, ?, ?)', (day, name, meal, cat, item))
+                        # conn.execute('INSERT INTO menu (date, name, meal, category, item) VALUES (?, ?, ?, ?, ?) WHERE NOT EXISTS (SELECT 1 FROM menu WHERE date = ?)', (date, name, meal, cat, item))
+                        cur = conn.cursor()
+                        cur.execute('SELECT * FROM menu WHERE date=? AND name=? AND meal=? AND category=? AND item=?;', (date, name, meal, cat, item))
+                        record = cur.fetchone()
+                        if record:
+                            print("record already exists")
+                        else:
+                            conn.execute('INSERT INTO menu (date, name, meal, category, item) VALUES (?, ?, ?, ?, ?);', (date, name, meal, cat, item))
+                            # conn.execute('INSERT OR IGNORE INTO menu (date, name, meal, category, item) VALUES (?, ?, ?, ?, ?)', (date, name, meal, cat, item))
 
 conn.commit()
 conn.close()
-
-executionTime = (time.time() - startTime)
-print('Execution time in seconds: ' + str(executionTime))
+# cur.close()

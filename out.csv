@@ -1,0 +1,2064 @@
+id,day,name,meal,category,item
+1,Today,Nine,Breakfast,Breakfast,Bob's Red Mill Gluten-Free Pancakes
+2,Today,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+3,Today,Nine,Breakfast,Breakfast,Mexican Chorizo Sausage
+4,Today,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+5,Today,Nine,Breakfast,Breakfast,Soyrizo Tofu Scramble
+6,Today,Nine,Breakfast,Breakfast,Triangle Hash Brown Patty
+7,Today,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+8,Today,Nine,Breakfast,Clean Plate,Steamed Rice
+9,Today,Nine,Lunch,Entrees,Calypso Black Beans and Rice
+10,Today,Nine,Lunch,Entrees,Cornmeal Crusted Catfish
+11,Today,Nine,Lunch,Entrees,Steamed Broccoli
+12,Today,Nine,Lunch,Grill,French Fries
+13,Today,Nine,Lunch,Pizza,Cheese Pizza
+14,Today,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+15,Today,Nine,Lunch,Clean Plate,Steamed Rice
+16,Today,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+17,Today,Nine,Lunch,Bakery,Vegan Raspberry Granola Bars
+18,Today,Nine,Lunch,Open Bars,BAR Hot Dog
+19,Today,Nine,Lunch,Open Bars,Beef Frank
+20,Today,Nine,Lunch,Open Bars,Cheese Sauce
+21,Today,Nine,Lunch,Open Bars,Chili con Carne
+22,Today,Nine,Lunch,Open Bars,Condiments
+23,Today,Nine,Lunch,Open Bars,Hot Dog Vegan
+24,Today,Nine,Lunch,Open Bars,Sauteed Onions and Peppers
+25,Today,Nine,Dinner,Soups,Cream of Carrot & Dill Soup
+26,Today,Nine,Dinner,Soups,Three Sisters Crave Soup
+27,Today,Nine,Dinner,Entrees,BBQ Tofu
+28,Today,Nine,Dinner,Entrees,Pan Handle Rotisserie Chicken
+29,Today,Nine,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+30,Today,Nine,Dinner,Entrees,Vegan Garlic Mashed Potatoes
+31,Today,Nine,Dinner,Pizza,Cheese Pizza
+32,Today,Nine,Dinner,Pizza,Vegan Vegetable Pizza
+33,Today,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+34,Today,Nine,Dinner,Clean Plate,Steamed Rice
+35,Today,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+36,Today,Nine,Dinner,Bakery,Chocolate Mocha Cake
+37,Today,Nine,Dinner,Bakery,Vegan Apple Cranberry Pie
+38,Today,Nine,Dinner,Open Bars,Bar Pasta
+39,Today,Nine,Dinner,Open Bars,Bolognese Sauce
+40,Today,Nine,Dinner,Open Bars,Cheese Tortellini
+41,Today,Nine,Dinner,Open Bars,Cheesy Garlic Bread Sticks
+42,Today,Nine,Dinner,Open Bars,Condiments
+43,Today,Nine,Dinner,Open Bars,Gluten Free Rotini Pasta
+44,Today,Nine,Dinner,Open Bars,Marinara Sauce
+45,Today,Nine,Dinner,Open Bars,Penne
+46,Today,Nine,Dinner,Open Bars,Roasted Broccoli Rabe
+47,Today,Nine,Late Night,Grill,Allergen Free Halal Chicken Thigh
+48,Today,Nine,Late Night,Grill,Tofu with Kosher Salt
+49,Today,Nine,Late Night,Pizza,Cheese Pizza
+50,Today,Nine,Late Night,Pizza,Vegan Vegetable Pizza
+51,Today,Nine,Late Night,Open Bars,Bar Pasta
+52,Today,Nine,Late Night,Open Bars,Bolognese Sauce
+53,Today,Nine,Late Night,Open Bars,Cheese Tortellini
+54,Today,Nine,Late Night,Open Bars,Cheesy Garlic Bread Sticks
+55,Today,Nine,Late Night,Open Bars,Condiments
+56,Today,Nine,Late Night,Open Bars,Gluten Free Rotini Pasta
+57,Today,Nine,Late Night,Open Bars,Marinara Sauce
+58,Today,Nine,Late Night,Open Bars,Penne
+59,Today,Nine,Late Night,Open Bars,Roasted Broccoli Rabe
+60,Today,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+61,Today,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+62,Today,Cowell,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+63,Today,Cowell,Breakfast,Breakfast,Sausage Patties
+64,Today,Cowell,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+65,Today,Cowell,Breakfast,Breakfast,Texas French Toast
+66,Today,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+67,Today,Cowell,Breakfast,Clean Plate,Steamed Rice
+68,Today,Cowell,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+69,Today,Cowell,Breakfast,Bakery,Assorted Scones
+70,Today,Cowell,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+71,Today,Cowell,Breakfast,Bakery,Mocha Chip Breakfast Bar
+72,Today,Cowell,Lunch,Soups,Creamy Wild Mushroom Bisque
+73,Today,Cowell,Lunch,Soups,Tomato Soup
+74,Today,Cowell,Lunch,Entrees,Italian Roasted Chicken
+75,Today,Cowell,Lunch,Entrees,Meatless Vegan Meatballs In Red Pepper Sauce
+76,Today,Cowell,Lunch,Entrees,Roasted Zucchini and Peppers
+77,Today,Cowell,Lunch,Entrees,Sauteed Seasonal Vegetables
+78,Today,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+79,Today,Cowell,Lunch,Grill,Tofu with Kosher Salt
+80,Today,Cowell,Lunch,Pizza,Cheese Pizza
+81,Today,Cowell,Lunch,Pizza,Veggie Supreme Pizza
+82,Today,Cowell,Lunch,Clean Plate,Steamed Rice
+83,Today,Cowell,Lunch,Bakery,Vegan Raspberry Granola Bars
+84,Today,Cowell,Lunch,Open Bars,Bar Taqueria
+85,Today,Cowell,Lunch,Open Bars,Condiments
+86,Today,Cowell,Lunch,Open Bars,Corn Tortillas
+87,Today,Cowell,Lunch,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+88,Today,Cowell,Lunch,Open Bars,Mexican Rice
+89,Today,Cowell,Lunch,Open Bars,Pork Carnitas
+90,Today,Cowell,Lunch,Open Bars,Rosarita Refried Pinto Beans
+91,Today,Cowell,Lunch,DH Baked,Mexican Chocolate Cookie
+92,Today,Cowell,Dinner,Soups,Creamy Wild Mushroom Bisque
+93,Today,Cowell,Dinner,Soups,Tomato Soup
+94,Today,Cowell,Dinner,Entrees,Italian Roasted Tofu
+95,Today,Cowell,Dinner,Entrees,Marinara Sauce
+96,Today,Cowell,Dinner,Entrees,Polpette Italia
+97,Today,Cowell,Dinner,Entrees,Roasted Brussels' Sprouts
+98,Today,Cowell,Dinner,Entrees,Soft Polenta
+99,Today,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+100,Today,Cowell,Dinner,Grill,Tofu with Kosher Salt
+101,Today,Cowell,Dinner,Pizza,Cheese Pizza
+102,Today,Cowell,Dinner,Pizza,Veggie Supreme Pizza
+103,Today,Cowell,Dinner,Clean Plate,Steamed Rice
+104,Today,Cowell,Dinner,Bakery,Chocolate Mocha Cake
+105,Today,Cowell,Dinner,Bakery,Vegan Apple Cranberry Pie
+106,Today,Cowell,Dinner,Open Bars,Chicken Shawarma
+107,Today,Cowell,Dinner,Open Bars,Eggplant with Tomato Sauce
+108,Today,Cowell,Dinner,Open Bars,Falafels
+109,Today,Cowell,Dinner,Open Bars,Garlic Fries
+110,Today,Cowell,Dinner,Open Bars,Original Naan
+111,Today,Cowell,Dinner,Open Bars,Spiced Almond Couscous
+112,Today,Cowell,Dinner,Open Bars,Tahini Sauce
+113,Today,Cowell,Dinner,Open Bars,Zhoug (Jalapeno & Cilantro Salsa)
+114,Today,Cowell,Late Night,Grill,Allergen Free Halal Chicken Thigh
+115,Today,Cowell,Late Night,Grill,Sidewinder Fry
+116,Today,Cowell,Late Night,Grill,Tofu with Kosher Salt
+117,Today,Cowell,Late Night,Grill,Torta Ahogada
+118,Today,Cowell,Late Night,Pizza,Cheese Pizza
+119,Today,Cowell,Late Night,Pizza,Veggie Supreme Pizza
+120,Today,Cowell,Late Night,Open Bars,Chicken Shawarma
+121,Today,Cowell,Late Night,Open Bars,Eggplant with Tomato Sauce
+122,Today,Cowell,Late Night,Open Bars,Falafels
+123,Today,Cowell,Late Night,Open Bars,Garlic Fries
+124,Today,Cowell,Late Night,Open Bars,Original Naan
+125,Today,Cowell,Late Night,Open Bars,Spiced Almond Couscous
+126,Today,Cowell,Late Night,Open Bars,Tahini Sauce
+127,Today,Cowell,Late Night,DH Baked,Mexican Chocolate Cookie
+128,Today,Merrill,Breakfast,Breakfast,Banana and Coconut Pancakes
+129,Today,Merrill,Breakfast,Breakfast,Ham Steaks
+130,Today,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+131,Today,Merrill,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+132,Today,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+133,Today,Merrill,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+134,Today,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+135,Today,Merrill,Breakfast,Clean Plate,Steamed Rice
+136,Today,Merrill,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+137,Today,Merrill,Breakfast,Bakery,Assorted Scones
+138,Today,Merrill,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+139,Today,Merrill,Breakfast,Bakery,Mocha Chip Breakfast Bar
+140,Today,Merrill,Lunch,Soups,Organic Kale and Sweet Potato Soup
+141,Today,Merrill,Lunch,Soups,Portuguese Sausage and Bean Soup
+142,Today,Merrill,Lunch,Entrees,Orange Glazed Chicken
+143,Today,Merrill,Lunch,Entrees,Orange Glazed Gardein
+144,Today,Merrill,Lunch,Entrees,Sesame Yakisoba Noodles
+145,Today,Merrill,Lunch,Entrees,Steamed Bok Choy
+146,Today,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+147,Today,Merrill,Lunch,Grill,Tofu with Kosher Salt
+148,Today,Merrill,Lunch,Pizza,Cheese Pizza
+149,Today,Merrill,Lunch,Pizza,Pepperoni Pizza
+150,Today,Merrill,Lunch,Clean Plate,Steamed Rice
+151,Today,Merrill,Lunch,Bakery,Vegan Raspberry Granola Bars
+152,Today,Merrill,Lunch,Open Bars,Armenian Salad
+153,Today,Merrill,Lunch,Open Bars,Harissa Roasted Chicken
+154,Today,Merrill,Lunch,Open Bars,North African Bar
+155,Today,Merrill,Lunch,Open Bars,Roasted Cauliflower and Almond Salad
+156,Today,Merrill,Lunch,Open Bars,Spiced Almond Couscous
+157,Today,Merrill,Lunch,Open Bars,Tahini Sauce
+158,Today,Merrill,Lunch,Open Bars,Tzatziki Sauce
+159,Today,Merrill,Lunch,DH Baked,Mexican Chocolate Cookie
+160,Today,Merrill,Dinner,Soups,Organic Kale and Sweet Potato Soup
+161,Today,Merrill,Dinner,Soups,Portuguese Sausage and Bean Soup
+162,Today,Merrill,Dinner,Entrees,Island Beef Steak
+163,Today,Merrill,Dinner,Entrees,Roasted Carrots
+164,Today,Merrill,Dinner,Entrees,Spicy Gardein with Garlic & Basil
+165,Today,Merrill,Dinner,Entrees,Sticky Rice
+166,Today,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+167,Today,Merrill,Dinner,Grill,Tofu with Kosher Salt
+168,Today,Merrill,Dinner,Pizza,Cheese Pizza
+169,Today,Merrill,Dinner,Pizza,Pepperoni Pizza
+170,Today,Merrill,Dinner,Clean Plate,Steamed Rice
+171,Today,Merrill,Dinner,Bakery,Chocolate Mocha Cake
+172,Today,Merrill,Dinner,Bakery,Vegan Apple Cranberry Pie
+173,Today,Merrill,Dinner,Open Bars,Condiments
+174,Today,Merrill,Dinner,Open Bars,Egg Noodles
+175,Today,Merrill,Dinner,Open Bars,Gluten Free Rotini Pasta
+176,Today,Merrill,Dinner,Open Bars,Italian Roasted Squash and Carrots
+177,Today,Merrill,Dinner,Open Bars,Marinara Sauce
+178,Today,Merrill,Dinner,Open Bars,Meatball Bar
+179,Today,Merrill,Dinner,Open Bars,Meatballs
+180,Today,Merrill,Dinner,Open Bars,Swedish Mushroom Sauce
+181,Today,Merrill,Dinner,Open Bars,Vegan Meatballs
+182,Today,Porter,Breakfast,Breakfast,Crispy Bacon
+183,Today,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+184,Today,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+185,Today,Porter,Breakfast,Breakfast,Tempeh Chorizo with Black Bean & Corn
+186,Today,Porter,Breakfast,Breakfast,Texas French Toast
+187,Today,Porter,Breakfast,Breakfast,Triangle Hash Brown Patty
+188,Today,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+189,Today,Porter,Breakfast,Clean Plate,Steamed Rice
+190,Today,Porter,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+191,Today,Porter,Breakfast,Bakery,Assorted Scones
+192,Today,Porter,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+193,Today,Porter,Breakfast,Bakery,Mocha Chip Breakfast Bar
+194,Today,Porter,Lunch,Soups,Chicken Tortilla Soup
+195,Today,Porter,Lunch,Soups,Garden Vegetable Soup
+196,Today,Porter,Lunch,Entrees,Chimichurri Roasted Chicken
+197,Today,Porter,Lunch,Entrees,Grilled Chimichurri Tofu
+198,Today,Porter,Lunch,Entrees,Roasted Yams
+199,Today,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+200,Today,Porter,Lunch,Grill,Tofu with Kosher Salt
+201,Today,Porter,Lunch,Pizza,Cheese Pizza
+202,Today,Porter,Lunch,Pizza,Gyro Pizza
+203,Today,Porter,Lunch,Clean Plate,Steamed Rice
+204,Today,Porter,Lunch,Open Bars,BAR Wings
+205,Today,Porter,Lunch,Open Bars,BBQ Wings
+206,Today,Porter,Lunch,Open Bars,Baked Beans
+207,Today,Porter,Lunch,Open Bars,Condiments
+208,Today,Porter,Lunch,Open Bars,Hawaiian Coleslaw
+209,Today,Porter,Lunch,Open Bars,Hot 'N Spicy Wings
+210,Today,Porter,Lunch,Open Bars,Teriyaki Glazed Wings
+211,Today,Porter,Lunch,Open Bars,Vegan Tenders
+212,Today,Porter,Lunch,DH Baked,Mexican Chocolate Cookie
+213,Today,Porter,Dinner,Soups,Fire Roasted Corn Soup
+214,Today,Porter,Dinner,Soups,Organic Vegan Chili
+215,Today,Porter,Dinner,Entrees,Black Beans with Garlic
+216,Today,Porter,Dinner,Entrees,Roast Pork Loin with Parsley and Shallot Sauce
+217,Today,Porter,Dinner,Entrees,Roasted Brussels Sprouts
+218,Today,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+219,Today,Porter,Dinner,Grill,Tofu with Kosher Salt
+220,Today,Porter,Dinner,Clean Plate,Steamed Rice
+221,Today,Porter,Dinner,Bakery,Chocolate Mocha Cake
+222,Today,Porter,Dinner,Bakery,Vegan Apple Cranberry Pie
+223,Today,Porter,Dinner,Open Bars,Bar Indian
+224,Today,Porter,Dinner,Open Bars,Basmati Rice Pullao
+225,Today,Porter,Dinner,Open Bars,Chana Masala
+226,Today,Porter,Dinner,Open Bars,Chicken Tikka Masala
+227,Today,Porter,Dinner,Open Bars,Dal Saag
+228,Today,Porter,Dinner,Open Bars,Original Naan
+229,Today,Porter,Dinner,Open Bars,Potato Samosas
+230,Today,Porter,Late Night,Entrees,Cage-Free Scrambled Eggs
+231,Today,Porter,Late Night,Entrees,Sausage Links
+232,Today,Porter,Late Night,Entrees,Tater Tots
+233,Today,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+234,Today,Porter,Late Night,Grill,Tofu with Kosher Salt
+235,Today,Porter,Late Night,Pizza,Cheese Pizza
+236,Today,Porter,Late Night,Pizza,Pepperoni Pizza
+237,Today,Porter,Late Night,Open Bars,Bar Indian
+238,Today,Porter,Late Night,Open Bars,Basmati Rice Pullao
+239,Today,Porter,Late Night,Open Bars,Chana Masala
+240,Today,Porter,Late Night,Open Bars,Chicken Tikka Masala
+241,Today,Porter,Late Night,Open Bars,Dal Saag
+242,Today,Porter,Late Night,Open Bars,Original Naan
+243,Today,Porter,Late Night,Open Bars,Potato Samosas
+244,Tomorrow,Nine,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+245,Tomorrow,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+246,Tomorrow,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+247,Tomorrow,Nine,Breakfast,Breakfast,Sausage Links
+248,Tomorrow,Nine,Breakfast,Breakfast,Texas French Toast
+249,Tomorrow,Nine,Breakfast,Breakfast,Thai Tofu Scramble
+250,Tomorrow,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+251,Tomorrow,Nine,Breakfast,Clean Plate,Steamed Rice
+252,Tomorrow,Nine,Lunch,Soups,Garden Vegetable Soup
+253,Tomorrow,Nine,Lunch,Soups,Hearty Beef Chili
+254,Tomorrow,Nine,Lunch,Entrees,Black Beans with Cumin Spice
+255,Tomorrow,Nine,Lunch,Entrees,Cumin Roasted Carrot
+256,Tomorrow,Nine,Lunch,Entrees,Happy Plant Tostada
+257,Tomorrow,Nine,Lunch,Entrees,Mexican Rice
+258,Tomorrow,Nine,Lunch,Entrees,Sauteed Rainbow Chard with Garlic Oil
+259,Tomorrow,Nine,Lunch,Pizza,Asian Spicy Chicken Pizza
+260,Tomorrow,Nine,Lunch,Pizza,Cheese Pizza
+261,Tomorrow,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+262,Tomorrow,Nine,Lunch,Clean Plate,Steamed Rice
+263,Tomorrow,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+264,Tomorrow,Nine,Lunch,Bakery,Bakery Coconut Almond Magic Bar
+265,Tomorrow,Nine,Lunch,Open Bars,Beef For Pho
+266,Tomorrow,Nine,Lunch,Open Bars,Condiments
+267,Tomorrow,Nine,Lunch,Open Bars,Pho Rice Noodle
+268,Tomorrow,Nine,Lunch,Open Bars,Steamed Bok Choy
+269,Tomorrow,Nine,Lunch,Open Bars,Tofu For Pho
+270,Tomorrow,Nine,Lunch,Open Bars,Vietnamese Pho Broth
+271,Tomorrow,Nine,Lunch,Open Bars,Vietnamese Pho Noodle Bar
+272,Tomorrow,Nine,Dinner,Soups,Garden Vegetable Soup
+273,Tomorrow,Nine,Dinner,Soups,Hearty Beef Chili
+274,Tomorrow,Nine,Dinner,Entrees,Grilled Balsamic Tofu
+275,Tomorrow,Nine,Dinner,Entrees,Roasted Brussels' Sprouts
+276,Tomorrow,Nine,Dinner,Entrees,Roasted Yukon Gold Potatoes
+277,Tomorrow,Nine,Dinner,Entrees,Rosemary Roasted Pork Loin
+278,Tomorrow,Nine,Dinner,Pizza,Asian Spicy Chicken Pizza
+279,Tomorrow,Nine,Dinner,Pizza,Cheese Pizza
+280,Tomorrow,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+281,Tomorrow,Nine,Dinner,Clean Plate,Steamed Rice
+282,Tomorrow,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+283,Tomorrow,Nine,Dinner,Bakery,Apricot Cake
+284,Tomorrow,Nine,Dinner,Bakery,Red Velvet Cake
+285,Tomorrow,Nine,Dinner,Open Bars,Authentic Spanish Rice
+286,Tomorrow,Nine,Dinner,Open Bars,Baja Fish For Tacos
+287,Tomorrow,Nine,Dinner,Open Bars,Baja Taco Bar
+288,Tomorrow,Nine,Dinner,Open Bars,Caramelized Chipotle Tofu
+289,Tomorrow,Nine,Dinner,Open Bars,Charro Beans
+290,Tomorrow,Nine,Dinner,Open Bars,Corn Tortillas
+291,Tomorrow,Nine,Dinner,Open Bars,"Flour Tortilla 6"""
+292,Tomorrow,Nine,Late Night,Grill,Allergen Free Halal Chicken Thigh
+293,Tomorrow,Nine,Late Night,Grill,Tofu with Kosher Salt
+294,Tomorrow,Nine,Late Night,Pizza,Asian Spicy Chicken Pizza
+295,Tomorrow,Nine,Late Night,Pizza,Cheese Pizza
+296,Tomorrow,Nine,Late Night,Open Bars,Authentic Spanish Rice
+297,Tomorrow,Nine,Late Night,Open Bars,Baja Fish For Tacos
+298,Tomorrow,Nine,Late Night,Open Bars,Baja Taco Bar
+299,Tomorrow,Nine,Late Night,Open Bars,Caramelized Chipotle Tofu
+300,Tomorrow,Nine,Late Night,Open Bars,Charro Beans
+301,Tomorrow,Nine,Late Night,Open Bars,Corn Tortillas
+302,Tomorrow,Nine,Late Night,Open Bars,"Flour Tortilla 6"""
+303,Tomorrow,Cowell,Breakfast,Breakfast,Blueberry Whole Wheat Pancakes
+304,Tomorrow,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+305,Tomorrow,Cowell,Breakfast,Breakfast,Mexican Chorizo Sausage
+306,Tomorrow,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+307,Tomorrow,Cowell,Breakfast,Breakfast,Triangle Hash Brown Patty
+308,Tomorrow,Cowell,Breakfast,Breakfast,Vegan Happy Scramble
+309,Tomorrow,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+310,Tomorrow,Merrill,Breakfast,Breakfast,Cinnamon Roasted Butternut Squash
+311,Tomorrow,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+312,Tomorrow,Merrill,Breakfast,Breakfast,Orange French Toast
+313,Tomorrow,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+314,Tomorrow,Merrill,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+315,Tomorrow,Merrill,Breakfast,Breakfast,Turkey Sausage Patties
+316,Tomorrow,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+317,Tomorrow,Merrill,Breakfast,Clean Plate,Steamed Rice
+318,Tomorrow,Merrill,Breakfast,Bakery,Blueberry Oat Bran Breakfast Bar
+319,Tomorrow,Merrill,Breakfast,Bakery,Lemon Poppyseed Breakfast Bar
+320,Tomorrow,Merrill,Breakfast,Bakery,Zucchini Bread
+321,Tomorrow,Merrill,Lunch,Soups,Chicken and Pork Sausage Gumbo
+322,Tomorrow,Merrill,Lunch,Soups,Sweet & Sour Mushroom Soup
+323,Tomorrow,Merrill,Lunch,Entrees,Brown Basmati Rice
+324,Tomorrow,Merrill,Lunch,Entrees,Kim Chi (Korean Spicy Fermented Cabbage)
+325,Tomorrow,Merrill,Lunch,Entrees,Steamed Broccoli
+326,Tomorrow,Merrill,Lunch,Entrees,Stir Fry Beef and Broccoli
+327,Tomorrow,Merrill,Lunch,Entrees,Tofu with Kosher Salt
+328,Tomorrow,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+329,Tomorrow,Merrill,Lunch,Grill,Tofu with Kosher Salt
+330,Tomorrow,Merrill,Lunch,Pizza,Cheese Pizza
+331,Tomorrow,Merrill,Lunch,Pizza,New Orleans Pizza
+332,Tomorrow,Merrill,Lunch,Clean Plate,Steamed Rice
+333,Tomorrow,Merrill,Lunch,Bakery,Bakery Coconut Almond Magic Bar
+334,Tomorrow,Merrill,Lunch,Open Bars,BAR Boardwalk Burgers
+335,Tomorrow,Merrill,Lunch,Open Bars,Beef Burger
+336,Tomorrow,Merrill,Lunch,Open Bars,Caramelized Onions
+337,Tomorrow,Merrill,Lunch,Open Bars,Chili con Carne
+338,Tomorrow,Merrill,Lunch,Open Bars,Hamburger Bun
+339,Tomorrow,Merrill,Lunch,Open Bars,Sauteed Mushrooms
+340,Tomorrow,Merrill,Lunch,Open Bars,Steak Cut Fries
+341,Tomorrow,Merrill,Lunch,Open Bars,Vegan Malibu Burger Patty
+342,Tomorrow,Merrill,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+343,Tomorrow,Merrill,Dinner,Soups,Chicken and Pork Sausage Gumbo
+344,Tomorrow,Merrill,Dinner,Soups,Sweet & Sour Mushroom Soup
+345,Tomorrow,Merrill,Dinner,Entrees,Cilantro Lime Chicken
+346,Tomorrow,Merrill,Dinner,Entrees,Lemon Rice
+347,Tomorrow,Merrill,Dinner,Entrees,Stir Fry Vegetables
+348,Tomorrow,Merrill,Dinner,Entrees,Teriyaki Tofu
+349,Tomorrow,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+350,Tomorrow,Merrill,Dinner,Grill,Tofu with Kosher Salt
+351,Tomorrow,Merrill,Dinner,Pizza,Cheese Pizza
+352,Tomorrow,Merrill,Dinner,Pizza,New Orleans Pizza
+353,Tomorrow,Merrill,Dinner,Clean Plate,Steamed Rice
+354,Tomorrow,Merrill,Dinner,Bakery,Apricot Cake
+355,Tomorrow,Merrill,Dinner,Bakery,Red Velvet Cake
+356,Tomorrow,Merrill,Dinner,Open Bars,Bar Taqueria
+357,Tomorrow,Merrill,Dinner,Open Bars,Condiments
+358,Tomorrow,Merrill,Dinner,Open Bars,Corn Tortillas
+359,Tomorrow,Merrill,Dinner,Open Bars,"Flour Tortilla 6"""
+360,Tomorrow,Merrill,Dinner,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+361,Tomorrow,Merrill,Dinner,Open Bars,Mexican Rice
+362,Tomorrow,Merrill,Dinner,Open Bars,Rosarita Refried Pinto Beans
+363,Tomorrow,Merrill,Dinner,Open Bars,Taqueria Chicken
+364,Tomorrow,Merrill,Dinner,Open Bars,Taqueria Ground Beef
+365,Tomorrow,Merrill,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+366,Tomorrow,Porter,Breakfast,Breakfast,Buttermilk Pancakes
+367,Tomorrow,Porter,Breakfast,Breakfast,Chicken Apple Sausage
+368,Tomorrow,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+369,Tomorrow,Porter,Breakfast,Breakfast,Harissa Potatoes
+370,Tomorrow,Porter,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+371,Tomorrow,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+372,Tomorrow,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+373,Tomorrow,Porter,Breakfast,Clean Plate,Steamed Rice
+374,Tomorrow,Porter,Breakfast,Bakery,Blueberry Oat Bran Breakfast Bar
+375,Tomorrow,Porter,Breakfast,Bakery,Lemon Poppyseed Breakfast Bar
+376,Tomorrow,Porter,Breakfast,Bakery,Zucchini Bread
+377,Tomorrow,Porter,Lunch,Soups,Chicken Noodle Soup
+378,Tomorrow,Porter,Lunch,Soups,Lentil & Lemon Soup
+379,Tomorrow,Porter,Lunch,Entrees,Orange Glazed Chicken
+380,Tomorrow,Porter,Lunch,Entrees,Orange Glazed Gardein
+381,Tomorrow,Porter,Lunch,Entrees,Roasted Green Beans in Garlic Oil
+382,Tomorrow,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+383,Tomorrow,Porter,Lunch,Grill,Tofu with Kosher Salt
+384,Tomorrow,Porter,Lunch,Pizza,Cheese Pizza
+385,Tomorrow,Porter,Lunch,Pizza,Thai Chicken Pizza
+386,Tomorrow,Porter,Lunch,Clean Plate,Steamed Rice
+387,Tomorrow,Porter,Lunch,Open Bars,Bar Pasta
+388,Tomorrow,Porter,Lunch,Open Bars,Cheese Ravioli
+389,Tomorrow,Porter,Lunch,Open Bars,Cheesy Garlic Bread Sticks
+390,Tomorrow,Porter,Lunch,Open Bars,Condiments
+391,Tomorrow,Porter,Lunch,Open Bars,Gluten Free Rotini Pasta
+392,Tomorrow,Porter,Lunch,Open Bars,Marinara Sauce
+393,Tomorrow,Porter,Lunch,Open Bars,Penne
+394,Tomorrow,Porter,Lunch,Open Bars,Pesto Cream Sauce
+395,Tomorrow,Porter,Lunch,Open Bars,Sauteed Rainbow Chard with Garlic Oil
+396,Tomorrow,Porter,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+397,Tomorrow,Porter,Dinner,Soups,Chicken Noodle Soup
+398,Tomorrow,Porter,Dinner,Soups,Lentil & Lemon Soup
+399,Tomorrow,Porter,Dinner,Entrees,Roasted Green Beans in Garlic Oil
+400,Tomorrow,Porter,Dinner,Entrees,Spicy Gardein with Garlic & Basil
+401,Tomorrow,Porter,Dinner,Entrees,Steamed Basmati Rice
+402,Tomorrow,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+403,Tomorrow,Porter,Dinner,Grill,Tofu with Kosher Salt
+404,Tomorrow,Porter,Dinner,Clean Plate,Steamed Rice
+405,Tomorrow,Porter,Dinner,Bakery,Apricot Cake
+406,Tomorrow,Porter,Dinner,Bakery,Red Velvet Cake
+407,Tomorrow,Porter,Dinner,Open Bars,Black Beans with Cumin Spice
+408,Tomorrow,Porter,Dinner,Open Bars,Braised Kale with Shallots
+409,Tomorrow,Porter,Dinner,Open Bars,Condiments
+410,Tomorrow,Porter,Dinner,Open Bars,Peruvian Bar
+411,Tomorrow,Porter,Dinner,Open Bars,Peruvian Beef Saltado
+412,Tomorrow,Porter,Dinner,Open Bars,Roasted Corn
+413,Tomorrow,Porter,Dinner,Open Bars,White Quinoa
+414,Tomorrow,Porter,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+415,Tomorrow,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+416,Tomorrow,Porter,Late Night,Grill,Curly Fries
+417,Tomorrow,Porter,Late Night,Grill,Falafel  Wrap
+418,Tomorrow,Porter,Late Night,Grill,Tofu with Kosher Salt
+419,Tomorrow,Porter,Late Night,Pizza,Cheese Pizza
+420,Tomorrow,Porter,Late Night,Pizza,Thai Chicken Pizza
+421,Tomorrow,Porter,Late Night,Open Bars,Black Beans with Cumin Spice
+422,Tomorrow,Porter,Late Night,Open Bars,Braised Kale with Shallots
+423,Tomorrow,Porter,Late Night,Open Bars,Condiments
+424,Tomorrow,Porter,Late Night,Open Bars,Peruvian Bar
+425,Tomorrow,Porter,Late Night,Open Bars,Peruvian Beef Saltado
+426,Tomorrow,Porter,Late Night,Open Bars,Roasted Corn
+427,Tomorrow,Porter,Late Night,Open Bars,White Quinoa
+428,Day after tommorw,Nine,Breakfast,Breakfast,Blueberry Whole Wheat Pancakes
+429,Day after tommorw,Nine,Breakfast,Breakfast,Chicken Apple Sausage
+430,Day after tommorw,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+431,Day after tommorw,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+432,Day after tommorw,Nine,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+433,Day after tommorw,Nine,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+434,Day after tommorw,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+435,Day after tommorw,Nine,Breakfast,Clean Plate,Steamed Rice
+436,Day after tommorw,Nine,Lunch,Soups,Chicken Spaetzle Soup
+437,Day after tommorw,Nine,Lunch,Soups,Chipotle Cuban Black Bean Soup
+438,Day after tommorw,Nine,Lunch,Entrees,Garlic Thyme Mushrooms
+439,Day after tommorw,Nine,Lunch,Entrees,Herbed Lentils
+440,Day after tommorw,Nine,Lunch,Entrees,Italian Roasted Tofu
+441,Day after tommorw,Nine,Lunch,Entrees,Marinara Sauce
+442,Day after tommorw,Nine,Lunch,Entrees,Meatballs
+443,Day after tommorw,Nine,Lunch,Entrees,Roasted Garlic Oil
+444,Day after tommorw,Nine,Lunch,Entrees,Steamed Green Beans
+445,Day after tommorw,Nine,Lunch,Pizza,Cheese Pizza
+446,Day after tommorw,Nine,Lunch,Pizza,Linguisa Pizza
+447,Day after tommorw,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+448,Day after tommorw,Nine,Lunch,Clean Plate,Steamed Rice
+449,Day after tommorw,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+450,Day after tommorw,Nine,Lunch,Bakery,Cream Cheese Swirled Brownie
+451,Day after tommorw,Nine,Lunch,Open Bars,BAR Wings
+452,Day after tommorw,Nine,Lunch,Open Bars,BBQ Wings
+453,Day after tommorw,Nine,Lunch,Open Bars,Baked Beans
+454,Day after tommorw,Nine,Lunch,Open Bars,Condiments
+455,Day after tommorw,Nine,Lunch,Open Bars,Hawaiian Coleslaw
+456,Day after tommorw,Nine,Lunch,Open Bars,Hot 'N Spicy Wings
+457,Day after tommorw,Nine,Lunch,Open Bars,Teriyaki Glazed Wings
+458,Day after tommorw,Nine,Lunch,Open Bars,Vegan Tenders
+459,Day after tommorw,Nine,Dinner,Soups,Chicken Spaetzle Soup
+460,Day after tommorw,Nine,Dinner,Soups,Chipotle Cuban Black Bean Soup
+461,Day after tommorw,Nine,Dinner,Entrees,Roasted Cauliflower
+462,Day after tommorw,Nine,Dinner,Entrees,Spicy Garbanzo and Vegetable Stir Fry
+463,Day after tommorw,Nine,Dinner,Entrees,Steamed Rice
+464,Day after tommorw,Nine,Dinner,Entrees,Sustainable Scampi with Tomato and Spinach
+465,Day after tommorw,Nine,Dinner,Pizza,Cheese Pizza
+466,Day after tommorw,Nine,Dinner,Pizza,Linguisa Pizza
+467,Day after tommorw,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+468,Day after tommorw,Nine,Dinner,Clean Plate,Steamed Rice
+469,Day after tommorw,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+470,Day after tommorw,Nine,Dinner,Bakery,Chocolate Cream Pie
+471,Day after tommorw,Nine,Dinner,Bakery,White Cake with Chocolate Frosting
+472,Day after tommorw,Nine,Dinner,Open Bars,BAR Yakisoba Noodles
+473,Day after tommorw,Nine,Dinner,Open Bars,Char Siu Chicken
+474,Day after tommorw,Nine,Dinner,Open Bars,Char Siu Gardein
+475,Day after tommorw,Nine,Dinner,Open Bars,Char Siu Sauce
+476,Day after tommorw,Nine,Dinner,Open Bars,Condiments
+477,Day after tommorw,Nine,Dinner,Open Bars,Sauteed Bok Choy and Carrots with Sesame
+478,Day after tommorw,Nine,Dinner,Open Bars,Sesame Yakisoba Noodles
+479,Day after tommorw,Nine,Late Night,Grill,Allergen Free Halal Chicken Thigh
+480,Day after tommorw,Nine,Late Night,Grill,Tofu with Kosher Salt
+481,Day after tommorw,Nine,Late Night,Pizza,Cheese Pizza
+482,Day after tommorw,Nine,Late Night,Pizza,Linguisa Pizza
+483,Day after tommorw,Nine,Late Night,Open Bars,BAR Yakisoba Noodles
+484,Day after tommorw,Nine,Late Night,Open Bars,Char Siu Chicken
+485,Day after tommorw,Nine,Late Night,Open Bars,Char Siu Gardein
+486,Day after tommorw,Nine,Late Night,Open Bars,Char Siu Sauce
+487,Day after tommorw,Nine,Late Night,Open Bars,Condiments
+488,Day after tommorw,Nine,Late Night,Open Bars,Sauteed Bok Choy and Carrots with Sesame
+489,Day after tommorw,Nine,Late Night,Open Bars,Sesame Yakisoba Noodles
+490,Day after tommorw,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+491,Day after tommorw,Cowell,Breakfast,Breakfast,Harissa Potatoes
+492,Day after tommorw,Cowell,Breakfast,Breakfast,Orange French Toast
+493,Day after tommorw,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+494,Day after tommorw,Cowell,Breakfast,Breakfast,Thai Tofu Scramble
+495,Day after tommorw,Cowell,Breakfast,Breakfast,Turkey Sausage Patties
+496,Day after tommorw,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+497,Day after tommorw,Cowell,Breakfast,Clean Plate,Steamed Rice
+498,Day after tommorw,Cowell,Breakfast,Bakery,House Baked Cinnamon Rolls
+499,Day after tommorw,Cowell,Breakfast,Bakery,Maple Pecan Breakfast Bar
+500,Day after tommorw,Cowell,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+501,Day after tommorw,Cowell,Lunch,Soups,Mushroom & Barley Soup
+502,Day after tommorw,Cowell,Lunch,Soups,Thai Coconut Curry Chicken Soup
+503,Day after tommorw,Cowell,Lunch,Entrees,Calypso Black Beans and Rice
+504,Day after tommorw,Cowell,Lunch,Entrees,Havana Banana BBQ'd Chicken
+505,Day after tommorw,Cowell,Lunch,Entrees,Roasted Carrots
+506,Day after tommorw,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+507,Day after tommorw,Cowell,Lunch,Grill,Tofu with Kosher Salt
+508,Day after tommorw,Cowell,Lunch,Pizza,Cheese Pizza
+509,Day after tommorw,Cowell,Lunch,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+510,Day after tommorw,Cowell,Lunch,Clean Plate,Steamed Rice
+511,Day after tommorw,Cowell,Lunch,Bakery,Cream Cheese Swirled Brownie
+512,Day after tommorw,Cowell,Lunch,Open Bars,Bar Pasta
+513,Day after tommorw,Cowell,Lunch,Open Bars,Bolognese Sauce
+514,Day after tommorw,Cowell,Lunch,Open Bars,Cheese Tortellini
+515,Day after tommorw,Cowell,Lunch,Open Bars,Cheesy Garlic Bread Sticks
+516,Day after tommorw,Cowell,Lunch,Open Bars,Condiments
+517,Day after tommorw,Cowell,Lunch,Open Bars,Gluten Free Rotini Pasta
+518,Day after tommorw,Cowell,Lunch,Open Bars,Marinara Sauce
+519,Day after tommorw,Cowell,Lunch,Open Bars,Penne
+520,Day after tommorw,Cowell,Lunch,Open Bars,Steamed Green Beans
+521,Day after tommorw,Cowell,Lunch,DH Baked,Sugar Cookie
+522,Day after tommorw,Cowell,Dinner,Soups,Mushroom & Barley Soup
+523,Day after tommorw,Cowell,Dinner,Soups,Thai Coconut Curry Chicken Soup
+524,Day after tommorw,Cowell,Dinner,Entrees,Apple Honey Ginger Pork Loin
+525,Day after tommorw,Cowell,Dinner,Entrees,Garlic Thyme Mushrooms
+526,Day after tommorw,Cowell,Dinner,Entrees,Red Parslied Potatoes and Olive Oil
+527,Day after tommorw,Cowell,Dinner,Entrees,Vegan Collard Greens
+528,Day after tommorw,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+529,Day after tommorw,Cowell,Dinner,Grill,Tofu with Kosher Salt
+530,Day after tommorw,Cowell,Dinner,Pizza,Cheese Pizza
+531,Day after tommorw,Cowell,Dinner,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+532,Day after tommorw,Cowell,Dinner,Clean Plate,Steamed Rice
+533,Day after tommorw,Cowell,Dinner,Bakery,Chocolate Cream Pie
+534,Day after tommorw,Cowell,Dinner,Bakery,White Cake with Chocolate Frosting
+535,Day after tommorw,Cowell,Dinner,Open Bars,BAR Wings
+536,Day after tommorw,Cowell,Dinner,Open Bars,BBQ Wings
+537,Day after tommorw,Cowell,Dinner,Open Bars,Buffalo Cauliflower
+538,Day after tommorw,Cowell,Dinner,Open Bars,Condiments
+539,Day after tommorw,Cowell,Dinner,Open Bars,Hawaiian Coleslaw
+540,Day after tommorw,Cowell,Dinner,Open Bars,Hot 'N Spicy Wings
+541,Day after tommorw,Cowell,Dinner,Open Bars,Teriyaki Glazed Wings
+542,Day after tommorw,Cowell,Dinner,Open Bars,Vegan Tenders
+543,Day after tommorw,Cowell,Late Night,Grill,Allergen Free Halal Chicken Thigh
+544,Day after tommorw,Cowell,Late Night,Grill,Barcelona Steak Sandwich
+545,Day after tommorw,Cowell,Late Night,Grill,Tater Tots
+546,Day after tommorw,Cowell,Late Night,Grill,Tofu with Kosher Salt
+547,Day after tommorw,Cowell,Late Night,Pizza,Cheese Pizza
+548,Day after tommorw,Cowell,Late Night,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+549,Day after tommorw,Cowell,Late Night,Open Bars,BAR Wings
+550,Day after tommorw,Cowell,Late Night,Open Bars,BBQ Wings
+551,Day after tommorw,Cowell,Late Night,Open Bars,Buffalo Cauliflower
+552,Day after tommorw,Cowell,Late Night,Open Bars,Condiments
+553,Day after tommorw,Cowell,Late Night,Open Bars,Hawaiian Coleslaw
+554,Day after tommorw,Cowell,Late Night,Open Bars,Hot 'N Spicy Wings
+555,Day after tommorw,Cowell,Late Night,Open Bars,Teriyaki Glazed Wings
+556,Day after tommorw,Cowell,Late Night,Open Bars,Vegan Tenders
+557,Day after tommorw,Cowell,Late Night,DH Baked,Mint Condition Pacific Cookie Co.
+558,Day after tommorw,Cowell,Late Night,DH Baked,Sugar Cookie
+559,Day after tommorw,Merrill,Breakfast,Breakfast,Bob's Red Mill Gluten-Free Pancakes
+560,Day after tommorw,Merrill,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+561,Day after tommorw,Merrill,Breakfast,Breakfast,Crispy Bacon
+562,Day after tommorw,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+563,Day after tommorw,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+564,Day after tommorw,Merrill,Breakfast,Breakfast,Thai Tofu Scramble
+565,Day after tommorw,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+566,Day after tommorw,Merrill,Breakfast,Clean Plate,Steamed Rice
+567,Day after tommorw,Merrill,Breakfast,Bakery,House Baked Cinnamon Rolls
+568,Day after tommorw,Merrill,Breakfast,Bakery,Maple Pecan Breakfast Bar
+569,Day after tommorw,Merrill,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+570,Day after tommorw,Merrill,Lunch,Soups,Chicken Tortilla Soup
+571,Day after tommorw,Merrill,Lunch,Soups,Garden Vegetable Soup
+572,Day after tommorw,Merrill,Lunch,Entrees,Farfalle Pasta
+573,Day after tommorw,Merrill,Lunch,Entrees,Gluten Free Penne Pasta
+574,Day after tommorw,Merrill,Lunch,Entrees,Marinara Sauce
+575,Day after tommorw,Merrill,Lunch,Entrees,Roasted Garlic Oil
+576,Day after tommorw,Merrill,Lunch,Entrees,Sauteed Rainbow Chard with Garlic Oil
+577,Day after tommorw,Merrill,Lunch,Entrees,White Beans
+578,Day after tommorw,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+579,Day after tommorw,Merrill,Lunch,Grill,Tofu with Kosher Salt
+580,Day after tommorw,Merrill,Lunch,Pizza,Cheese Pizza
+581,Day after tommorw,Merrill,Lunch,Pizza,Combo Meat Pizza
+582,Day after tommorw,Merrill,Lunch,Clean Plate,Steamed Rice
+583,Day after tommorw,Merrill,Lunch,Bakery,Cream Cheese Swirled Brownie
+584,Day after tommorw,Merrill,Lunch,Open Bars,Bar Indian
+585,Day after tommorw,Merrill,Lunch,Open Bars,Basmati Rice Pullao
+586,Day after tommorw,Merrill,Lunch,Open Bars,Cauliflower Lentil Dal
+587,Day after tommorw,Merrill,Lunch,Open Bars,Chickpea Curry with Tomato and Kale
+588,Day after tommorw,Merrill,Lunch,Open Bars,Condiments
+589,Day after tommorw,Merrill,Lunch,Open Bars,Potato Samosas
+590,Day after tommorw,Merrill,Lunch,Open Bars,Tandoori Chicken
+591,Day after tommorw,Merrill,Lunch,DH Baked,Sugar Cookie
+592,Day after tommorw,Merrill,Dinner,Soups,Chicken Tortilla Soup
+593,Day after tommorw,Merrill,Dinner,Soups,Garden Vegetable Soup
+594,Day after tommorw,Merrill,Dinner,Entrees,Grilled Balsamic Tofu
+595,Day after tommorw,Merrill,Dinner,Entrees,Italian Roasted Squash and Carrots
+596,Day after tommorw,Merrill,Dinner,Entrees,Sustainable Scampi with Tomato and Spinach
+597,Day after tommorw,Merrill,Dinner,Entrees,Vegan Garlic Fettuccini
+598,Day after tommorw,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+599,Day after tommorw,Merrill,Dinner,Grill,Tofu with Kosher Salt
+600,Day after tommorw,Merrill,Dinner,Pizza,Cheese Pizza
+601,Day after tommorw,Merrill,Dinner,Pizza,Combo Meat Pizza
+602,Day after tommorw,Merrill,Dinner,Clean Plate,Steamed Rice
+603,Day after tommorw,Merrill,Dinner,Bakery,Chocolate Cream Pie
+604,Day after tommorw,Merrill,Dinner,Bakery,White Cake with Chocolate Frosting
+605,Day after tommorw,Merrill,Dinner,Open Bars,Beef For Pho
+606,Day after tommorw,Merrill,Dinner,Open Bars,Condiments
+607,Day after tommorw,Merrill,Dinner,Open Bars,Pho Rice Noodle
+608,Day after tommorw,Merrill,Dinner,Open Bars,Steamed Bok Choy
+609,Day after tommorw,Merrill,Dinner,Open Bars,Tofu For Pho
+610,Day after tommorw,Merrill,Dinner,Open Bars,Vietnamese Pho Broth
+611,Day after tommorw,Merrill,Dinner,Open Bars,Vietnamese Pho Noodle Bar
+612,Day after tommorw,Porter,Breakfast,Breakfast,Biscuit and Gravy
+613,Day after tommorw,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+614,Day after tommorw,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+615,Day after tommorw,Porter,Breakfast,Breakfast,Sausage Patties
+616,Day after tommorw,Porter,Breakfast,Breakfast,"Sweet Potato, Black Bean, and Kale Hash"
+617,Day after tommorw,Porter,Breakfast,Breakfast,Tater Tots
+618,Day after tommorw,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+619,Day after tommorw,Porter,Breakfast,Clean Plate,Steamed Rice
+620,Day after tommorw,Porter,Breakfast,Bakery,House Baked Cinnamon Rolls
+621,Day after tommorw,Porter,Breakfast,Bakery,Maple Pecan Breakfast Bar
+622,Day after tommorw,Porter,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+623,Day after tommorw,Porter,Lunch,Soups,Organic Kale and Sweet Potato Soup
+624,Day after tommorw,Porter,Lunch,Soups,Turkey Noodle Soup
+625,Day after tommorw,Porter,Lunch,Entrees,Grilled Huli Huli Chicken
+626,Day after tommorw,Porter,Lunch,Entrees,Hawaiian Coleslaw
+627,Day after tommorw,Porter,Lunch,Entrees,Roasted Vegetables
+628,Day after tommorw,Porter,Lunch,Entrees,Teriyaki Tofu
+629,Day after tommorw,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+630,Day after tommorw,Porter,Lunch,Grill,Tofu with Kosher Salt
+631,Day after tommorw,Porter,Lunch,Pizza,Bacon and Ranch Pizza
+632,Day after tommorw,Porter,Lunch,Pizza,Cheese Pizza
+633,Day after tommorw,Porter,Lunch,Clean Plate,Steamed Rice
+634,Day after tommorw,Porter,Lunch,Open Bars,Chicken For Pho
+635,Day after tommorw,Porter,Lunch,Open Bars,Condiments
+636,Day after tommorw,Porter,Lunch,Open Bars,Pho Rice Noodle
+637,Day after tommorw,Porter,Lunch,Open Bars,Steamed Bok Choy
+638,Day after tommorw,Porter,Lunch,Open Bars,Tofu For Pho
+639,Day after tommorw,Porter,Lunch,Open Bars,Vietnamese Pho Broth
+640,Day after tommorw,Porter,Lunch,Open Bars,Vietnamese Pho Noodle Bar
+641,Day after tommorw,Porter,Lunch,DH Baked,Sugar Cookie
+642,Day after tommorw,Porter,Dinner,Soups,Organic Kale and Sweet Potato Soup
+643,Day after tommorw,Porter,Dinner,Soups,Turkey Noodle Soup
+644,Day after tommorw,Porter,Dinner,Entrees,Asian Baked Tofu
+645,Day after tommorw,Porter,Dinner,Entrees,Honey Sesame Cod
+646,Day after tommorw,Porter,Dinner,Entrees,Roasted Broccoli Rabe
+647,Day after tommorw,Porter,Dinner,Entrees,Steamed Brown Rice
+648,Day after tommorw,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+649,Day after tommorw,Porter,Dinner,Grill,Tofu with Kosher Salt
+650,Day after tommorw,Porter,Dinner,Clean Plate,Steamed Rice
+651,Day after tommorw,Porter,Dinner,Bakery,Chocolate Cream Pie
+652,Day after tommorw,Porter,Dinner,Bakery,White Cake with Chocolate Frosting
+653,Day after tommorw,Porter,Dinner,Open Bars,Braised Pork
+654,Day after tommorw,Porter,Dinner,Open Bars,Cattleman's Smoky BBQ Sauce
+655,Day after tommorw,Porter,Dinner,Open Bars,Chipotle Vegan Chik'n Strips
+656,Day after tommorw,Porter,Dinner,Open Bars,Mac & Cheese Bar Condiments
+657,Day after tommorw,Porter,Dinner,Open Bars,Mac and Cheese Bar
+658,Day after tommorw,Porter,Dinner,Open Bars,Macaroni & Cheese
+659,Day after tommorw,Porter,Dinner,Open Bars,Steamed Broccoli
+660,Day after tommorw,Porter,Dinner,Open Bars,Vegan Macaroni & Cheese
+661,Day after tommorw,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+662,Day after tommorw,Porter,Late Night,Grill,Chili Cheese Hot Dog
+663,Day after tommorw,Porter,Late Night,Grill,Tofu with Kosher Salt
+664,Day after tommorw,Porter,Late Night,Pizza,Bacon and Ranch Pizza
+665,Day after tommorw,Porter,Late Night,Pizza,Cheese Pizza
+666,Day after tommorw,Porter,Late Night,Open Bars,Braised Pork
+667,Day after tommorw,Porter,Late Night,Open Bars,Cattleman's Smoky BBQ Sauce
+668,Day after tommorw,Porter,Late Night,Open Bars,Chipotle Vegan Chik'n Strips
+669,Day after tommorw,Porter,Late Night,Open Bars,Mac & Cheese Bar Condiments
+670,Day after tommorw,Porter,Late Night,Open Bars,Mac and Cheese Bar
+671,Day after tommorw,Porter,Late Night,Open Bars,Macaroni & Cheese
+672,Day after tommorw,Porter,Late Night,Open Bars,Steamed Broccoli
+673,Day after tommorw,Porter,Late Night,Open Bars,Vegan Macaroni & Cheese
+674,2023-03-04,Nine,Breakfast,Breakfast,Banana and Coconut Pancakes
+675,2023-03-04,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+676,2023-03-04,Nine,Breakfast,Breakfast,Mexican Chorizo Sausage
+677,2023-03-04,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+678,2023-03-04,Nine,Breakfast,Breakfast,Triangle Hash Brown Patty
+679,2023-03-04,Nine,Breakfast,Breakfast,Vegan Happy Scramble
+680,2023-03-04,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+681,2023-03-04,Nine,Breakfast,Clean Plate,Steamed Rice
+682,2023-03-04,Nine,Lunch,Breakfast,Banana and Coconut Pancakes
+683,2023-03-04,Nine,Lunch,Breakfast,Mexican Chorizo Sausage Patties
+684,2023-03-04,Nine,Lunch,Breakfast,Triangle Hash Brown Patty
+685,2023-03-04,Nine,Lunch,Breakfast,Vegan Happy Scramble
+686,2023-03-04,Nine,Lunch,Soups,Organic Kale and Sweet Potato Soup
+687,2023-03-04,Nine,Lunch,Soups,Spicy North African Chicken Soup
+688,2023-03-04,Nine,Lunch,Pizza,Cheese Pizza
+689,2023-03-04,Nine,Lunch,Pizza,Sausage and Mushroom Pizza
+690,2023-03-04,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+691,2023-03-04,Nine,Lunch,Clean Plate,Steamed Rice
+692,2023-03-04,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+693,2023-03-04,Nine,Lunch,Bakery,Chocolate Cake
+694,2023-03-04,Nine,Lunch,Open Bars,Bar Pasta
+695,2023-03-04,Nine,Lunch,Open Bars,Cheese Ravioli
+696,2023-03-04,Nine,Lunch,Open Bars,Condiments
+697,2023-03-04,Nine,Lunch,Open Bars,Gluten Free Rotini Pasta
+698,2023-03-04,Nine,Lunch,Open Bars,Marinara Sauce
+699,2023-03-04,Nine,Lunch,Open Bars,Meatballs
+700,2023-03-04,Nine,Lunch,Open Bars,Penne
+701,2023-03-04,Nine,Lunch,Open Bars,Sauteed Garlic Kale
+702,2023-03-04,Nine,Dinner,Soups,Organic Black Bean Soup
+703,2023-03-04,Nine,Dinner,Soups,Spicy North African Chicken Soup
+704,2023-03-04,Nine,Dinner,Entrees,Italian Roasted Tofu
+705,2023-03-04,Nine,Dinner,Entrees,Porcini Crusted Roasted Chicken
+706,2023-03-04,Nine,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+707,2023-03-04,Nine,Dinner,Entrees,Steamed Brown Rice
+708,2023-03-04,Nine,Dinner,Pizza,Cheese Pizza
+709,2023-03-04,Nine,Dinner,Pizza,Sausage and Mushroom Pizza
+710,2023-03-04,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+711,2023-03-04,Nine,Dinner,Clean Plate,Steamed Rice
+712,2023-03-04,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+713,2023-03-04,Nine,Dinner,Bakery,Carrot Cake
+714,2023-03-04,Nine,Dinner,Open Bars,Chicken Shoyu
+715,2023-03-04,Nine,Dinner,Open Bars,Hawaiian Bar
+716,2023-03-04,Nine,Dinner,Open Bars,Roasted Yams
+717,2023-03-04,Nine,Dinner,Open Bars,Spam Fried Rice
+718,2023-03-04,Nine,Dinner,Open Bars,Stir Fry Vegetables
+719,2023-03-04,Nine,Dinner,Open Bars,Teriyaki Tofu
+720,2023-03-04,Nine,Dinner,Open Bars,Vegan Hawaiian Macaroni Salad
+721,2023-03-04,Nine,Late Night,Pizza,Cheese Pizza
+722,2023-03-04,Nine,Late Night,Pizza,Sausage and Mushroom Pizza
+723,2023-03-04,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+724,2023-03-04,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+725,2023-03-04,Nine,Late Night,Open Bars,Chicken Shoyu
+726,2023-03-04,Nine,Late Night,Open Bars,Hawaiian Bar
+727,2023-03-04,Nine,Late Night,Open Bars,Roasted Yams
+728,2023-03-04,Nine,Late Night,Open Bars,Spam Fried Rice
+729,2023-03-04,Nine,Late Night,Open Bars,Stir Fry Vegetables
+730,2023-03-04,Nine,Late Night,Open Bars,Teriyaki Tofu
+731,2023-03-04,Nine,Late Night,Open Bars,Vegan Hawaiian Macaroni Salad
+732,2023-03-04,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+733,2023-03-04,Cowell,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+734,2023-03-04,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+735,2023-03-04,Cowell,Breakfast,Breakfast,Potatoes O'Brien
+736,2023-03-04,Cowell,Breakfast,Breakfast,Sausage Patties
+737,2023-03-04,Cowell,Breakfast,Breakfast,Texas French Toast
+738,2023-03-04,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+739,2023-03-04,Cowell,Breakfast,Clean Plate,Steamed Rice
+740,2023-03-04,Cowell,Breakfast,Bakery,Blueberry Breakfast Bar
+741,2023-03-04,Cowell,Breakfast,Bakery,Orange Cranberry Scone
+742,2023-03-04,Cowell,Breakfast,Bakery,Pumpkin Spice Breakfast Bar
+743,2023-03-04,Cowell,Lunch,Breakfast,Natural Bridges Tofu Scramble
+744,2023-03-04,Cowell,Lunch,Breakfast,Potatoes O'Brien
+745,2023-03-04,Cowell,Lunch,Breakfast,Sausage Patties
+746,2023-03-04,Cowell,Lunch,Breakfast,Texas French Toast
+747,2023-03-04,Cowell,Lunch,Soups,Chicken and Pork Sausage Gumbo
+748,2023-03-04,Cowell,Lunch,Soups,Organic Lentil and Chickpea Soup
+749,2023-03-04,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+750,2023-03-04,Cowell,Lunch,Grill,Tofu with Kosher Salt
+751,2023-03-04,Cowell,Lunch,Pizza,Cheese Pizza
+752,2023-03-04,Cowell,Lunch,Pizza,Roasted Vegetable Pizza
+753,2023-03-04,Cowell,Lunch,Clean Plate,Steamed Rice
+754,2023-03-04,Cowell,Lunch,Bakery,Chocolate Cake
+755,2023-03-04,Cowell,Lunch,Open Bars,BAR Middle Eastern
+756,2023-03-04,Cowell,Lunch,Open Bars,Falafels
+757,2023-03-04,Cowell,Lunch,Open Bars,Harissa Roasted Chicken
+758,2023-03-04,Cowell,Lunch,Open Bars,Pita Bread
+759,2023-03-04,Cowell,Lunch,Open Bars,Roasted Broccoli Rabe
+760,2023-03-04,Cowell,Lunch,Open Bars,Tabouleh Salad
+761,2023-03-04,Cowell,Lunch,Open Bars,Tzatziki Sauce
+762,2023-03-04,Cowell,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+763,2023-03-04,Cowell,Dinner,Soups,Cajun Lentil Soup
+764,2023-03-04,Cowell,Dinner,Soups,Chicken and Pork Sausage Gumbo
+765,2023-03-04,Cowell,Dinner,Entrees,Cajun Meatloaf
+766,2023-03-04,Cowell,Dinner,Entrees,Garlic Mashed Yukon Golds
+767,2023-03-04,Cowell,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+768,2023-03-04,Cowell,Dinner,Entrees,Tofu with Kosher Salt
+769,2023-03-04,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+770,2023-03-04,Cowell,Dinner,Grill,Tofu with Kosher Salt
+771,2023-03-04,Cowell,Dinner,Pizza,Cheese Pizza
+772,2023-03-04,Cowell,Dinner,Pizza,Roasted Vegetable Pizza
+773,2023-03-04,Cowell,Dinner,Clean Plate,Steamed Rice
+774,2023-03-04,Cowell,Dinner,Bakery,Carrot Cake
+775,2023-03-04,Cowell,Dinner,Open Bars,Gardein and Broccoli Stir Fry
+776,2023-03-04,Cowell,Dinner,Open Bars,Grilled Huli Huli Chicken
+777,2023-03-04,Cowell,Dinner,Open Bars,Hawaiian Bar
+778,2023-03-04,Cowell,Dinner,Open Bars,Hawaiian Coleslaw
+779,2023-03-04,Cowell,Dinner,Open Bars,Maui Fried Rice
+780,2023-03-04,Cowell,Dinner,Open Bars,Stir Fry Vegetables
+781,2023-03-04,Cowell,Dinner,DH Baked,Apple Pie
+782,2023-03-04,Cowell,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+783,2023-03-04,Porter,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+784,2023-03-04,Porter,Breakfast,Breakfast,French Toast Sticks
+785,2023-03-04,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+786,2023-03-04,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+787,2023-03-04,Porter,Breakfast,Breakfast,Sausage Links
+788,2023-03-04,Porter,Breakfast,Breakfast,Soyrizo Tofu Scramble
+789,2023-03-04,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+790,2023-03-04,Porter,Breakfast,Clean Plate,Steamed Rice
+791,2023-03-04,Porter,Breakfast,Bakery,Blueberry Breakfast Bar
+792,2023-03-04,Porter,Breakfast,Bakery,Orange Cranberry Scone
+793,2023-03-04,Porter,Breakfast,Bakery,Pumpkin Spice Breakfast Bar
+794,2023-03-04,Porter,Lunch,Breakfast,Cajun Roasted Red Potatoes
+795,2023-03-04,Porter,Lunch,Breakfast,French Toast Sticks
+796,2023-03-04,Porter,Lunch,Breakfast,Sausage Links
+797,2023-03-04,Porter,Lunch,Breakfast,Soyrizo Tofu Scramble
+798,2023-03-04,Porter,Lunch,Soups,Creamy Broccoli Cheddar Soup
+799,2023-03-04,Porter,Lunch,Soups,Vegan Split Pea Soup
+800,2023-03-04,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+801,2023-03-04,Porter,Lunch,Grill,Tofu with Kosher Salt
+802,2023-03-04,Porter,Lunch,Pizza,Cheese Pizza
+803,2023-03-04,Porter,Lunch,Pizza,Mexican Pizza with Chorizo
+804,2023-03-04,Porter,Lunch,Clean Plate,Steamed Rice
+805,2023-03-04,Porter,Lunch,Open Bars,Beef For Pho
+806,2023-03-04,Porter,Lunch,Open Bars,Condiments
+807,2023-03-04,Porter,Lunch,Open Bars,Pho Rice Noodle
+808,2023-03-04,Porter,Lunch,Open Bars,Steamed Bok Choy
+809,2023-03-04,Porter,Lunch,Open Bars,Tofu For Pho
+810,2023-03-04,Porter,Lunch,Open Bars,Vietnamese Pho Broth
+811,2023-03-04,Porter,Lunch,Open Bars,Vietnamese Pho Noodle Bar
+812,2023-03-04,Porter,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+813,2023-03-04,Porter,Dinner,Soups,Creamy Broccoli Cheddar Soup
+814,2023-03-04,Porter,Dinner,Entrees,Cajun Lightning Chicken
+815,2023-03-04,Porter,Dinner,Entrees,Quinoa with Lemon and Thyme
+816,2023-03-04,Porter,Dinner,Entrees,Roasted Green Beans in Garlic Oil
+817,2023-03-04,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+818,2023-03-04,Porter,Dinner,Grill,Tofu with Kosher Salt
+819,2023-03-04,Porter,Dinner,Clean Plate,Steamed Rice
+820,2023-03-04,Porter,Dinner,Bakery,Carrot Cake
+821,2023-03-04,Porter,Dinner,Open Bars,Braised Pork
+822,2023-03-04,Porter,Dinner,Open Bars,Cattleman's Smoky BBQ Sauce
+823,2023-03-04,Porter,Dinner,Open Bars,Mashed Potato Bowl Bar
+824,2023-03-04,Porter,Dinner,Open Bars,Roasted Brussels Sprouts
+825,2023-03-04,Porter,Dinner,Open Bars,Vegan Garlic Mashed Potatoes
+826,2023-03-04,Porter,Dinner,Open Bars,Vegan Mushroom Gravy
+827,2023-03-04,Porter,Dinner,Open Bars,Vegan Tenders
+828,2023-03-04,Porter,Dinner,DH Baked,Apple Pie
+829,2023-03-05,Nine,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+830,2023-03-05,Nine,Breakfast,Breakfast,Ham Steaks
+831,2023-03-05,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+832,2023-03-05,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+833,2023-03-05,Nine,Breakfast,Breakfast,Texas French Toast
+834,2023-03-05,Nine,Breakfast,Breakfast,Thai Tofu Scramble
+835,2023-03-05,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+836,2023-03-05,Nine,Breakfast,Clean Plate,Steamed Rice
+837,2023-03-05,Nine,Lunch,Soups,Creamy Wild Mushroom Bisque
+838,2023-03-05,Nine,Lunch,Soups,New England Clam Chowder
+839,2023-03-05,Nine,Lunch,Entrees,Jasmine Rice
+840,2023-03-05,Nine,Lunch,Entrees,Parsley Mint Sauce
+841,2023-03-05,Nine,Lunch,Entrees,Stir Fry Vegetables
+842,2023-03-05,Nine,Lunch,Entrees,Thai-Style Sustainable Pacific Cod
+843,2023-03-05,Nine,Lunch,Entrees,Tofu with Basil and Lime
+844,2023-03-05,Nine,Lunch,Grill,Bacon Cheeseburger
+845,2023-03-05,Nine,Lunch,Grill,Tater Tots
+846,2023-03-05,Nine,Lunch,Pizza,Cheese Pizza
+847,2023-03-05,Nine,Lunch,Pizza,Philly Steak Pizza
+848,2023-03-05,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+849,2023-03-05,Nine,Lunch,Clean Plate,Steamed Rice
+850,2023-03-05,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+851,2023-03-05,Nine,Lunch,Bakery,Lemon Loaf
+852,2023-03-05,Nine,Lunch,Open Bars,BBQ Tempeh
+853,2023-03-05,Nine,Lunch,Open Bars,Caribbean Bar
+854,2023-03-05,Nine,Lunch,Open Bars,Coconut Basmati Rice
+855,2023-03-05,Nine,Lunch,Open Bars,Pork Carnitas
+856,2023-03-05,Nine,Lunch,Open Bars,Roasted Sweet Potatoes
+857,2023-03-05,Nine,Dinner,Soups,New England Clam Chowder
+858,2023-03-05,Nine,Dinner,Entrees,Harissa Tofu
+859,2023-03-05,Nine,Dinner,Entrees,Mushroom Pasta Bake
+860,2023-03-05,Nine,Dinner,Entrees,Side of Roasted Vegetables
+861,2023-03-05,Nine,Dinner,Pizza,Cheese Pizza
+862,2023-03-05,Nine,Dinner,Pizza,Gyro Pizza
+863,2023-03-05,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+864,2023-03-05,Nine,Dinner,Clean Plate,Steamed Rice
+865,2023-03-05,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+866,2023-03-05,Nine,Dinner,Bakery,Brownie M&M
+867,2023-03-05,Nine,Dinner,Open Bars,Cheese Sauce
+868,2023-03-05,Nine,Dinner,Open Bars,Condiments
+869,2023-03-05,Nine,Dinner,Open Bars,Nachos Bar
+870,2023-03-05,Nine,Dinner,Open Bars,Rosarita Refried Pinto Beans
+871,2023-03-05,Nine,Dinner,Open Bars,Soyrizo and Potatoes
+872,2023-03-05,Nine,Dinner,Open Bars,Taqueria Chicken
+873,2023-03-05,Nine,Dinner,Open Bars,Taqueria Ground Beef
+874,2023-03-05,Nine,Dinner,Open Bars,Tortilla Chips
+875,2023-03-05,Nine,Late Night,Pizza,Cheese Pizza
+876,2023-03-05,Nine,Late Night,Pizza,Gyro Pizza
+877,2023-03-05,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+878,2023-03-05,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+879,2023-03-05,Nine,Late Night,Open Bars,Cheese Sauce
+880,2023-03-05,Nine,Late Night,Open Bars,Condiments
+881,2023-03-05,Nine,Late Night,Open Bars,Nachos Bar
+882,2023-03-05,Nine,Late Night,Open Bars,Rosarita Refried Pinto Beans
+883,2023-03-05,Nine,Late Night,Open Bars,Taqueria Chicken
+884,2023-03-05,Nine,Late Night,Open Bars,Taqueria Ground Beef
+885,2023-03-05,Nine,Late Night,Open Bars,Tortilla Chips
+886,2023-03-05,Cowell,Breakfast,Breakfast,Buttermilk Pancakes
+887,2023-03-05,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+888,2023-03-05,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+889,2023-03-05,Cowell,Breakfast,Breakfast,Sausage Links
+890,2023-03-05,Cowell,Breakfast,Breakfast,"Sweet Potato, Black Bean, and Kale Hash"
+891,2023-03-05,Cowell,Breakfast,Breakfast,Tater Tots
+892,2023-03-05,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+893,2023-03-05,Cowell,Breakfast,Clean Plate,Steamed Rice
+894,2023-03-05,Cowell,Breakfast,Bakery,Cherry Turnovers
+895,2023-03-05,Cowell,Breakfast,Bakery,Chocolate Muffin
+896,2023-03-05,Cowell,Breakfast,Bakery,Three Berry Breakfast Bar
+897,2023-03-05,Cowell,Lunch,Soups,Chicken Spaetzle Soup
+898,2023-03-05,Cowell,Lunch,Soups,Garden Vegetable Soup
+899,2023-03-05,Cowell,Lunch,Entrees,Salt and Pepper Fish
+900,2023-03-05,Cowell,Lunch,Entrees,Steamed Bok Choy
+901,2023-03-05,Cowell,Lunch,Entrees,Steamed Brown Rice
+902,2023-03-05,Cowell,Lunch,Entrees,Tempeh Roasted in Sesame Oil
+903,2023-03-05,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+904,2023-03-05,Cowell,Lunch,Grill,Tofu with Kosher Salt
+905,2023-03-05,Cowell,Lunch,Pizza,Cheese Pizza
+906,2023-03-05,Cowell,Lunch,Pizza,Hawaiian Pizza
+907,2023-03-05,Cowell,Lunch,Clean Plate,Steamed Rice
+908,2023-03-05,Cowell,Lunch,Bakery,Lemon Loaf
+909,2023-03-05,Cowell,Lunch,Open Bars,Bar Pasta
+910,2023-03-05,Cowell,Lunch,Open Bars,Bolognese Sauce
+911,2023-03-05,Cowell,Lunch,Open Bars,Cheese Tortellini
+912,2023-03-05,Cowell,Lunch,Open Bars,Cheesy Garlic Bread Sticks
+913,2023-03-05,Cowell,Lunch,Open Bars,Condiments
+914,2023-03-05,Cowell,Lunch,Open Bars,Gluten Free Rotini Pasta
+915,2023-03-05,Cowell,Lunch,Open Bars,Marinara Sauce
+916,2023-03-05,Cowell,Lunch,Open Bars,Penne
+917,2023-03-05,Cowell,Lunch,Open Bars,Roasted Zucchini and Peppers
+918,2023-03-05,Cowell,Lunch,DH Baked,Vegan Oatmeal Raisin Cookie
+919,2023-03-05,Cowell,Dinner,Soups,New England Clam Chowder
+920,2023-03-05,Cowell,Dinner,Soups,Organic Vegan Chili
+921,2023-03-05,Cowell,Dinner,Entrees,Au Gratin Potatoes
+922,2023-03-05,Cowell,Dinner,Entrees,BBQ Tofu
+923,2023-03-05,Cowell,Dinner,Entrees,Cornmeal Crusted Catfish
+924,2023-03-05,Cowell,Dinner,Entrees,Steamed Green Beans
+925,2023-03-05,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+926,2023-03-05,Cowell,Dinner,Grill,Tofu with Kosher Salt
+927,2023-03-05,Cowell,Dinner,Pizza,Cheese Pizza
+928,2023-03-05,Cowell,Dinner,Pizza,Hawaiian Pizza
+929,2023-03-05,Cowell,Dinner,Clean Plate,Steamed Rice
+930,2023-03-05,Cowell,Dinner,Bakery,Brownie M&M
+931,2023-03-05,Cowell,Dinner,Bakery,Sugar Cookie
+932,2023-03-05,Cowell,Dinner,Open Bars,Black Beans with Cumin Spice
+933,2023-03-05,Cowell,Dinner,Open Bars,Braised Kale with Shallots
+934,2023-03-05,Cowell,Dinner,Open Bars,Condiments
+935,2023-03-05,Cowell,Dinner,Open Bars,Peruvian Bar
+936,2023-03-05,Cowell,Dinner,Open Bars,Peruvian Beef Saltado
+937,2023-03-05,Cowell,Dinner,Open Bars,Roasted Corn
+938,2023-03-05,Cowell,Dinner,Open Bars,White Quinoa
+939,2023-03-05,Merrill,Breakfast,Breakfast,Belgian Waffle Squares
+940,2023-03-05,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+941,2023-03-05,Merrill,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+942,2023-03-05,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+943,2023-03-05,Merrill,Breakfast,Breakfast,Triangle Hash Brown Patty
+944,2023-03-05,Merrill,Breakfast,Breakfast,Turkey Sausage Patties
+945,2023-03-05,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+946,2023-03-05,Merrill,Breakfast,Clean Plate,Steamed Rice
+947,2023-03-05,Merrill,Breakfast,Bakery,Cherry Turnovers
+948,2023-03-05,Merrill,Breakfast,Bakery,Chocolate Muffin
+949,2023-03-05,Merrill,Breakfast,Bakery,Three Berry Breakfast Bar
+950,2023-03-05,Merrill,Lunch,Soups,New England Clam Chowder
+951,2023-03-05,Merrill,Lunch,Soups,Organic Black Bean Soup
+952,2023-03-05,Merrill,Lunch,Entrees,Asian Baked Tofu
+953,2023-03-05,Merrill,Lunch,Entrees,Cilantro Lemon Rice
+954,2023-03-05,Merrill,Lunch,Entrees,Roasted Broccoli Rabe
+955,2023-03-05,Merrill,Lunch,Entrees,Southwestern Catfish with 3-Pepper Slaw
+956,2023-03-05,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+957,2023-03-05,Merrill,Lunch,Grill,Tofu with Kosher Salt
+958,2023-03-05,Merrill,Lunch,Pizza,Cheese Pizza
+959,2023-03-05,Merrill,Lunch,Pizza,Pepperoni Pizza
+960,2023-03-05,Merrill,Lunch,Clean Plate,Steamed Rice
+961,2023-03-05,Merrill,Lunch,Bakery,Lemon Loaf
+962,2023-03-05,Merrill,Lunch,Open Bars,Bar Taqueria
+963,2023-03-05,Merrill,Lunch,Open Bars,Condiments
+964,2023-03-05,Merrill,Lunch,Open Bars,Corn Tortillas
+965,2023-03-05,Merrill,Lunch,Open Bars,"Flour Tortilla 6"""
+966,2023-03-05,Merrill,Lunch,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+967,2023-03-05,Merrill,Lunch,Open Bars,Mexican Rice
+968,2023-03-05,Merrill,Lunch,Open Bars,Rosarita Refried Pinto Beans
+969,2023-03-05,Merrill,Lunch,Open Bars,Taqueria Ground Beef
+970,2023-03-05,Merrill,Lunch,DH Baked,Vegan Oatmeal Raisin Cookie
+971,2023-03-05,Merrill,Dinner,Soups,New England Clam Chowder
+972,2023-03-05,Merrill,Dinner,Soups,Organic Black Bean Soup
+973,2023-03-05,Merrill,Dinner,Entrees,Chimichurri Roasted Chicken
+974,2023-03-05,Merrill,Dinner,Entrees,Grilled Chimichurri Tofu
+975,2023-03-05,Merrill,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+976,2023-03-05,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+977,2023-03-05,Merrill,Dinner,Grill,Tofu with Kosher Salt
+978,2023-03-05,Merrill,Dinner,Pizza,Cheese Pizza
+979,2023-03-05,Merrill,Dinner,Pizza,Pepperoni Pizza
+980,2023-03-05,Merrill,Dinner,Clean Plate,Steamed Rice
+981,2023-03-05,Merrill,Dinner,Bakery,Brownie M&M
+982,2023-03-05,Merrill,Dinner,Open Bars,Chicken For Pho
+983,2023-03-05,Merrill,Dinner,Open Bars,Condiments
+984,2023-03-05,Merrill,Dinner,Open Bars,Pho Rice Noodle
+985,2023-03-05,Merrill,Dinner,Open Bars,Steamed Bok Choy
+986,2023-03-05,Merrill,Dinner,Open Bars,Tofu For Pho
+987,2023-03-05,Merrill,Dinner,Open Bars,Vietnamese Pho Broth
+988,2023-03-05,Merrill,Dinner,Open Bars,Vietnamese Pho Noodle Bar
+989,2023-03-05,Merrill,Dinner,DH Baked,Sugar Cookie
+990,2023-03-05,Porter,Breakfast,Breakfast,Crispy Bacon
+991,2023-03-05,Porter,Breakfast,Breakfast,French Toast Sticks
+992,2023-03-05,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+993,2023-03-05,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+994,2023-03-05,Porter,Breakfast,Breakfast,Oven Roasted Herbed Potatoes
+995,2023-03-05,Porter,Breakfast,Breakfast,Vegan Happy Scramble
+996,2023-03-05,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+997,2023-03-05,Porter,Breakfast,Clean Plate,Steamed Rice
+998,2023-03-05,Porter,Breakfast,Bakery,Cherry Turnovers
+999,2023-03-05,Porter,Breakfast,Bakery,Chocolate Muffin
+1000,2023-03-05,Porter,Breakfast,Bakery,Three Berry Breakfast Bar
+1001,2023-03-05,Porter,Lunch,Soups,New England Clam Chowder
+1002,2023-03-05,Porter,Lunch,Soups,Organic Vegan Chili
+1003,2023-03-05,Porter,Lunch,Entrees,Fish & Chips
+1004,2023-03-05,Porter,Lunch,Entrees,Peas & Onions
+1005,2023-03-05,Porter,Lunch,Entrees,Vegan Tenders
+1006,2023-03-05,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1007,2023-03-05,Porter,Lunch,Grill,Tofu with Kosher Salt
+1008,2023-03-05,Porter,Lunch,Pizza,Cheese Pizza
+1009,2023-03-05,Porter,Lunch,Pizza,Pizza with Gochujang BBQ Chicken
+1010,2023-03-05,Porter,Lunch,Clean Plate,Steamed Rice
+1011,2023-03-05,Porter,Lunch,Open Bars,BAR Boardwalk Burgers
+1012,2023-03-05,Porter,Lunch,Open Bars,Beef Burger
+1013,2023-03-05,Porter,Lunch,Open Bars,Grilled Pineapple Rings
+1014,2023-03-05,Porter,Lunch,Open Bars,Hamburger Bun
+1015,2023-03-05,Porter,Lunch,Open Bars,Sauteed Onions and Peppers
+1016,2023-03-05,Porter,Lunch,Open Bars,Vegan Malibu Burger Patty
+1017,2023-03-05,Porter,Lunch,DH Baked,Vegan Oatmeal Raisin Cookie
+1018,2023-03-05,Porter,Dinner,Soups,Organic Vegan Chili
+1019,2023-03-05,Porter,Dinner,Entrees,Malaysian Pork Rendang
+1020,2023-03-05,Porter,Dinner,Entrees,Spicy Gardein with Garlic & Basil
+1021,2023-03-05,Porter,Dinner,Entrees,Stir Fry Vegetables
+1022,2023-03-05,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1023,2023-03-05,Porter,Dinner,Grill,Tofu with Kosher Salt
+1024,2023-03-05,Porter,Dinner,Clean Plate,Steamed Rice
+1025,2023-03-05,Porter,Dinner,Bakery,Brownie M&M
+1026,2023-03-05,Porter,Dinner,Open Bars,Bar Pasta
+1027,2023-03-05,Porter,Dinner,Open Bars,Bolognese Sauce
+1028,2023-03-05,Porter,Dinner,Open Bars,Cheese Tortellini
+1029,2023-03-05,Porter,Dinner,Open Bars,Condiments
+1030,2023-03-05,Porter,Dinner,Open Bars,Gluten Free Rotini Pasta
+1031,2023-03-05,Porter,Dinner,Open Bars,Marinara Sauce
+1032,2023-03-05,Porter,Dinner,Open Bars,Penne
+1033,2023-03-05,Porter,Dinner,Open Bars,Sauteed Garlic Kale
+1034,2023-03-05,Porter,Dinner,DH Baked,Sugar Cookie
+1035,2023-03-06,Nine,Breakfast,Breakfast,Banana and Coconut Pancakes
+1036,2023-03-06,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1037,2023-03-06,Nine,Breakfast,Breakfast,Mexican Chorizo Sausage
+1038,2023-03-06,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1039,2023-03-06,Nine,Breakfast,Breakfast,Triangle Hash Brown Patty
+1040,2023-03-06,Nine,Breakfast,Breakfast,Vegan Happy Scramble
+1041,2023-03-06,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1042,2023-03-06,Nine,Breakfast,Clean Plate,Steamed Rice
+1043,2023-03-06,Nine,Lunch,Breakfast,Banana and Coconut Pancakes
+1044,2023-03-06,Nine,Lunch,Breakfast,Mexican Chorizo Sausage Patties
+1045,2023-03-06,Nine,Lunch,Breakfast,Triangle Hash Brown Patty
+1046,2023-03-06,Nine,Lunch,Breakfast,Vegan Happy Scramble
+1047,2023-03-06,Nine,Lunch,Soups,Organic Kale and Sweet Potato Soup
+1048,2023-03-06,Nine,Lunch,Soups,Spicy North African Chicken Soup
+1049,2023-03-06,Nine,Lunch,Pizza,Cheese Pizza
+1050,2023-03-06,Nine,Lunch,Pizza,Sausage and Mushroom Pizza
+1051,2023-03-06,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+1052,2023-03-06,Nine,Lunch,Clean Plate,Steamed Rice
+1053,2023-03-06,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+1054,2023-03-06,Nine,Lunch,Bakery,Chocolate Cake
+1055,2023-03-06,Nine,Lunch,Open Bars,Bar Pasta
+1056,2023-03-06,Nine,Lunch,Open Bars,Cheese Ravioli
+1057,2023-03-06,Nine,Lunch,Open Bars,Condiments
+1058,2023-03-06,Nine,Lunch,Open Bars,Gluten Free Rotini Pasta
+1059,2023-03-06,Nine,Lunch,Open Bars,Marinara Sauce
+1060,2023-03-06,Nine,Lunch,Open Bars,Meatballs
+1061,2023-03-06,Nine,Lunch,Open Bars,Penne
+1062,2023-03-06,Nine,Lunch,Open Bars,Sauteed Garlic Kale
+1063,2023-03-06,Nine,Dinner,Soups,Organic Black Bean Soup
+1064,2023-03-06,Nine,Dinner,Soups,Spicy North African Chicken Soup
+1065,2023-03-06,Nine,Dinner,Entrees,Italian Roasted Tofu
+1066,2023-03-06,Nine,Dinner,Entrees,Porcini Crusted Roasted Chicken
+1067,2023-03-06,Nine,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+1068,2023-03-06,Nine,Dinner,Entrees,Steamed Brown Rice
+1069,2023-03-06,Nine,Dinner,Pizza,Cheese Pizza
+1070,2023-03-06,Nine,Dinner,Pizza,Sausage and Mushroom Pizza
+1071,2023-03-06,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+1072,2023-03-06,Nine,Dinner,Clean Plate,Steamed Rice
+1073,2023-03-06,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+1074,2023-03-06,Nine,Dinner,Bakery,Carrot Cake
+1075,2023-03-06,Nine,Dinner,Open Bars,Chicken Shoyu
+1076,2023-03-06,Nine,Dinner,Open Bars,Hawaiian Bar
+1077,2023-03-06,Nine,Dinner,Open Bars,Roasted Yams
+1078,2023-03-06,Nine,Dinner,Open Bars,Spam Fried Rice
+1079,2023-03-06,Nine,Dinner,Open Bars,Stir Fry Vegetables
+1080,2023-03-06,Nine,Dinner,Open Bars,Teriyaki Tofu
+1081,2023-03-06,Nine,Dinner,Open Bars,Vegan Hawaiian Macaroni Salad
+1082,2023-03-06,Nine,Late Night,Pizza,Cheese Pizza
+1083,2023-03-06,Nine,Late Night,Pizza,Sausage and Mushroom Pizza
+1084,2023-03-06,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+1085,2023-03-06,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+1086,2023-03-06,Nine,Late Night,Open Bars,Chicken Shoyu
+1087,2023-03-06,Nine,Late Night,Open Bars,Hawaiian Bar
+1088,2023-03-06,Nine,Late Night,Open Bars,Roasted Yams
+1089,2023-03-06,Nine,Late Night,Open Bars,Spam Fried Rice
+1090,2023-03-06,Nine,Late Night,Open Bars,Stir Fry Vegetables
+1091,2023-03-06,Nine,Late Night,Open Bars,Teriyaki Tofu
+1092,2023-03-06,Nine,Late Night,Open Bars,Vegan Hawaiian Macaroni Salad
+1093,2023-03-06,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1094,2023-03-06,Cowell,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+1095,2023-03-06,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1096,2023-03-06,Cowell,Breakfast,Breakfast,Potatoes O'Brien
+1097,2023-03-06,Cowell,Breakfast,Breakfast,Sausage Patties
+1098,2023-03-06,Cowell,Breakfast,Breakfast,Texas French Toast
+1099,2023-03-06,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1100,2023-03-06,Cowell,Breakfast,Clean Plate,Steamed Rice
+1101,2023-03-06,Cowell,Breakfast,Bakery,Blueberry Breakfast Bar
+1102,2023-03-06,Cowell,Breakfast,Bakery,Orange Cranberry Scone
+1103,2023-03-06,Cowell,Breakfast,Bakery,Pumpkin Spice Breakfast Bar
+1104,2023-03-06,Cowell,Lunch,Breakfast,Natural Bridges Tofu Scramble
+1105,2023-03-06,Cowell,Lunch,Breakfast,Potatoes O'Brien
+1106,2023-03-06,Cowell,Lunch,Breakfast,Sausage Patties
+1107,2023-03-06,Cowell,Lunch,Breakfast,Texas French Toast
+1108,2023-03-06,Cowell,Lunch,Soups,Chicken and Pork Sausage Gumbo
+1109,2023-03-06,Cowell,Lunch,Soups,Organic Lentil and Chickpea Soup
+1110,2023-03-06,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1111,2023-03-06,Cowell,Lunch,Grill,Tofu with Kosher Salt
+1112,2023-03-06,Cowell,Lunch,Pizza,Cheese Pizza
+1113,2023-03-06,Cowell,Lunch,Pizza,Roasted Vegetable Pizza
+1114,2023-03-06,Cowell,Lunch,Clean Plate,Steamed Rice
+1115,2023-03-06,Cowell,Lunch,Bakery,Chocolate Cake
+1116,2023-03-06,Cowell,Lunch,Open Bars,BAR Middle Eastern
+1117,2023-03-06,Cowell,Lunch,Open Bars,Falafels
+1118,2023-03-06,Cowell,Lunch,Open Bars,Harissa Roasted Chicken
+1119,2023-03-06,Cowell,Lunch,Open Bars,Pita Bread
+1120,2023-03-06,Cowell,Lunch,Open Bars,Roasted Broccoli Rabe
+1121,2023-03-06,Cowell,Lunch,Open Bars,Tabouleh Salad
+1122,2023-03-06,Cowell,Lunch,Open Bars,Tzatziki Sauce
+1123,2023-03-06,Cowell,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+1124,2023-03-06,Cowell,Dinner,Soups,Cajun Lentil Soup
+1125,2023-03-06,Cowell,Dinner,Soups,Chicken and Pork Sausage Gumbo
+1126,2023-03-06,Cowell,Dinner,Entrees,Cajun Meatloaf
+1127,2023-03-06,Cowell,Dinner,Entrees,Garlic Mashed Yukon Golds
+1128,2023-03-06,Cowell,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+1129,2023-03-06,Cowell,Dinner,Entrees,Tofu with Kosher Salt
+1130,2023-03-06,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1131,2023-03-06,Cowell,Dinner,Grill,Tofu with Kosher Salt
+1132,2023-03-06,Cowell,Dinner,Pizza,Cheese Pizza
+1133,2023-03-06,Cowell,Dinner,Pizza,Roasted Vegetable Pizza
+1134,2023-03-06,Cowell,Dinner,Clean Plate,Steamed Rice
+1135,2023-03-06,Cowell,Dinner,Bakery,Carrot Cake
+1136,2023-03-06,Cowell,Dinner,Open Bars,Gardein and Broccoli Stir Fry
+1137,2023-03-06,Cowell,Dinner,Open Bars,Grilled Huli Huli Chicken
+1138,2023-03-06,Cowell,Dinner,Open Bars,Hawaiian Bar
+1139,2023-03-06,Cowell,Dinner,Open Bars,Hawaiian Coleslaw
+1140,2023-03-06,Cowell,Dinner,Open Bars,Maui Fried Rice
+1141,2023-03-06,Cowell,Dinner,Open Bars,Stir Fry Vegetables
+1142,2023-03-06,Cowell,Dinner,DH Baked,Apple Pie
+1143,2023-03-06,Cowell,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+1144,2023-03-06,Porter,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+1145,2023-03-06,Porter,Breakfast,Breakfast,French Toast Sticks
+1146,2023-03-06,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1147,2023-03-06,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1148,2023-03-06,Porter,Breakfast,Breakfast,Sausage Links
+1149,2023-03-06,Porter,Breakfast,Breakfast,Soyrizo Tofu Scramble
+1150,2023-03-06,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1151,2023-03-06,Porter,Breakfast,Clean Plate,Steamed Rice
+1152,2023-03-06,Porter,Breakfast,Bakery,Blueberry Breakfast Bar
+1153,2023-03-06,Porter,Breakfast,Bakery,Orange Cranberry Scone
+1154,2023-03-06,Porter,Breakfast,Bakery,Pumpkin Spice Breakfast Bar
+1155,2023-03-06,Porter,Lunch,Breakfast,Cajun Roasted Red Potatoes
+1156,2023-03-06,Porter,Lunch,Breakfast,French Toast Sticks
+1157,2023-03-06,Porter,Lunch,Breakfast,Sausage Links
+1158,2023-03-06,Porter,Lunch,Breakfast,Soyrizo Tofu Scramble
+1159,2023-03-06,Porter,Lunch,Soups,Creamy Broccoli Cheddar Soup
+1160,2023-03-06,Porter,Lunch,Soups,Vegan Split Pea Soup
+1161,2023-03-06,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1162,2023-03-06,Porter,Lunch,Grill,Tofu with Kosher Salt
+1163,2023-03-06,Porter,Lunch,Pizza,Cheese Pizza
+1164,2023-03-06,Porter,Lunch,Pizza,Mexican Pizza with Chorizo
+1165,2023-03-06,Porter,Lunch,Clean Plate,Steamed Rice
+1166,2023-03-06,Porter,Lunch,Open Bars,Beef For Pho
+1167,2023-03-06,Porter,Lunch,Open Bars,Condiments
+1168,2023-03-06,Porter,Lunch,Open Bars,Pho Rice Noodle
+1169,2023-03-06,Porter,Lunch,Open Bars,Steamed Bok Choy
+1170,2023-03-06,Porter,Lunch,Open Bars,Tofu For Pho
+1171,2023-03-06,Porter,Lunch,Open Bars,Vietnamese Pho Broth
+1172,2023-03-06,Porter,Lunch,Open Bars,Vietnamese Pho Noodle Bar
+1173,2023-03-06,Porter,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+1174,2023-03-06,Porter,Dinner,Soups,Creamy Broccoli Cheddar Soup
+1175,2023-03-06,Porter,Dinner,Entrees,Cajun Lightning Chicken
+1176,2023-03-06,Porter,Dinner,Entrees,Quinoa with Lemon and Thyme
+1177,2023-03-06,Porter,Dinner,Entrees,Roasted Green Beans in Garlic Oil
+1178,2023-03-06,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1179,2023-03-06,Porter,Dinner,Grill,Tofu with Kosher Salt
+1180,2023-03-06,Porter,Dinner,Clean Plate,Steamed Rice
+1181,2023-03-06,Porter,Dinner,Bakery,Carrot Cake
+1182,2023-03-06,Porter,Dinner,Open Bars,Braised Pork
+1183,2023-03-06,Porter,Dinner,Open Bars,Cattleman's Smoky BBQ Sauce
+1184,2023-03-06,Porter,Dinner,Open Bars,Mashed Potato Bowl Bar
+1185,2023-03-06,Porter,Dinner,Open Bars,Roasted Brussels Sprouts
+1186,2023-03-06,Porter,Dinner,Open Bars,Vegan Garlic Mashed Potatoes
+1187,2023-03-06,Porter,Dinner,Open Bars,Vegan Mushroom Gravy
+1188,2023-03-06,Porter,Dinner,Open Bars,Vegan Tenders
+1189,2023-03-06,Porter,Dinner,DH Baked,Apple Pie
+1190,2023-03-07,Nine,Breakfast,Breakfast,Buttermilk Pancakes
+1191,2023-03-07,Nine,Breakfast,Breakfast,Ham Steaks
+1192,2023-03-07,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1193,2023-03-07,Nine,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+1194,2023-03-07,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1195,2023-03-07,Nine,Breakfast,Breakfast,Tater Tots
+1196,2023-03-07,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1197,2023-03-07,Nine,Breakfast,Clean Plate,Steamed Rice
+1198,2023-03-07,Nine,Lunch,Breakfast,Buttermilk Pancakes
+1199,2023-03-07,Nine,Lunch,Breakfast,Ham Steaks
+1200,2023-03-07,Nine,Lunch,Breakfast,Natural Bridges Tofu Scramble
+1201,2023-03-07,Nine,Lunch,Breakfast,Tater Tots
+1202,2023-03-07,Nine,Lunch,Soups,Potato Leek Soup
+1203,2023-03-07,Nine,Lunch,Soups,Thai Coconut Curry Chicken Soup
+1204,2023-03-07,Nine,Lunch,Pizza,Cheese Pizza
+1205,2023-03-07,Nine,Lunch,Pizza,Smoked Chicken & Pesto Pizza
+1206,2023-03-07,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+1207,2023-03-07,Nine,Lunch,Clean Plate,Steamed Rice
+1208,2023-03-07,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+1209,2023-03-07,Nine,Lunch,Bakery,Blondie Brownies
+1210,2023-03-07,Nine,Lunch,Open Bars,BAR Boardwalk Burgers
+1211,2023-03-07,Nine,Lunch,Open Bars,Bacon
+1212,2023-03-07,Nine,Lunch,Open Bars,Beef Burger
+1213,2023-03-07,Nine,Lunch,Open Bars,Burger Bar #1 Condiments
+1214,2023-03-07,Nine,Lunch,Open Bars,Caramelized Onions
+1215,2023-03-07,Nine,Lunch,Open Bars,French Fries
+1216,2023-03-07,Nine,Lunch,Open Bars,Hamburger Bun
+1217,2023-03-07,Nine,Lunch,Open Bars,Roasted Broccoli Rabe
+1218,2023-03-07,Nine,Lunch,Open Bars,Sauteed Mushrooms
+1219,2023-03-07,Nine,Lunch,Open Bars,Vegan Malibu Burger Patty
+1220,2023-03-07,Nine,Dinner,Soups,Potato Leek Soup
+1221,2023-03-07,Nine,Dinner,Soups,Thai Coconut Curry Chicken Soup
+1222,2023-03-07,Nine,Dinner,Entrees,Calypso Black Beans and Rice
+1223,2023-03-07,Nine,Dinner,Entrees,Jamaican Mojo Chicken
+1224,2023-03-07,Nine,Dinner,Entrees,Roasted Zucchini and Peppers
+1225,2023-03-07,Nine,Dinner,Pizza,Cheese Pizza
+1226,2023-03-07,Nine,Dinner,Pizza,Smoked Chicken & Pesto Pizza
+1227,2023-03-07,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+1228,2023-03-07,Nine,Dinner,Clean Plate,Steamed Rice
+1229,2023-03-07,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+1230,2023-03-07,Nine,Dinner,Open Bars,Authentic Spanish Rice
+1231,2023-03-07,Nine,Dinner,Open Bars,Baja Fish For Tacos
+1232,2023-03-07,Nine,Dinner,Open Bars,Baja Taco Bar
+1233,2023-03-07,Nine,Dinner,Open Bars,Caramelized Chipotle Tofu
+1234,2023-03-07,Nine,Dinner,Open Bars,Charro Beans
+1235,2023-03-07,Nine,Dinner,Open Bars,Corn Tortillas
+1236,2023-03-07,Nine,Dinner,Open Bars,Elote Salad
+1237,2023-03-07,Nine,Dinner,Open Bars,"Flour Tortilla 6"""
+1238,2023-03-07,Nine,Dinner,DH Baked,Lemon Poppy Seed Cake
+1239,2023-03-07,Nine,Late Night,Pizza,Cheese Pizza
+1240,2023-03-07,Nine,Late Night,Pizza,Smoked Chicken & Pesto Pizza
+1241,2023-03-07,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+1242,2023-03-07,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+1243,2023-03-07,Nine,Late Night,Open Bars,Authentic Spanish Rice
+1244,2023-03-07,Nine,Late Night,Open Bars,Baja Fish For Tacos
+1245,2023-03-07,Nine,Late Night,Open Bars,Baja Taco Bar
+1246,2023-03-07,Nine,Late Night,Open Bars,Caramelized Chipotle Tofu
+1247,2023-03-07,Nine,Late Night,Open Bars,Charro Beans
+1248,2023-03-07,Nine,Late Night,Open Bars,Corn Tortillas
+1249,2023-03-07,Nine,Late Night,Open Bars,Elote Salad
+1250,2023-03-07,Nine,Late Night,Open Bars,"Flour Tortilla 6"""
+1251,2023-03-07,Cowell,Breakfast,Breakfast,Buttermilk Pancake with Cinnamon Apples
+1252,2023-03-07,Cowell,Breakfast,Breakfast,Chicken Apple Sausage
+1253,2023-03-07,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1254,2023-03-07,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1255,2023-03-07,Cowell,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+1256,2023-03-07,Cowell,Breakfast,Breakfast,Vegan Happy Scramble
+1257,2023-03-07,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1258,2023-03-07,Cowell,Breakfast,Clean Plate,Steamed Rice
+1259,2023-03-07,Cowell,Breakfast,Bakery,Orange Cranberry Breakfast Bar
+1260,2023-03-07,Cowell,Breakfast,DH Baked,Banana Walnut Breakfast Bar
+1261,2023-03-07,Cowell,Breakfast,DH Baked,Vegan Blackberry Turnovers
+1262,2023-03-07,Cowell,Lunch,Breakfast,Buttermilk Pancake with Cinnamon Apples
+1263,2023-03-07,Cowell,Lunch,Breakfast,Chicken Apple Sausage
+1264,2023-03-07,Cowell,Lunch,Breakfast,Roasted Yukon Gold Potatoes
+1265,2023-03-07,Cowell,Lunch,Breakfast,Vegan Happy Scramble
+1266,2023-03-07,Cowell,Lunch,Soups,Polynesian Chicken Soup
+1267,2023-03-07,Cowell,Lunch,Soups,Tuscan Bean & Mushroom
+1268,2023-03-07,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1269,2023-03-07,Cowell,Lunch,Grill,Tofu with Kosher Salt
+1270,2023-03-07,Cowell,Lunch,Pizza,Artichoke & Roasted Garlic Pizza
+1271,2023-03-07,Cowell,Lunch,Pizza,Cheese Pizza
+1272,2023-03-07,Cowell,Lunch,Clean Plate,Steamed Rice
+1273,2023-03-07,Cowell,Lunch,Bakery,Blondie Brownies
+1274,2023-03-07,Cowell,Lunch,Open Bars,Bar Taqueria
+1275,2023-03-07,Cowell,Lunch,Open Bars,Braised Kale with Shallots
+1276,2023-03-07,Cowell,Lunch,Open Bars,Condiments
+1277,2023-03-07,Cowell,Lunch,Open Bars,Corn Tortillas
+1278,2023-03-07,Cowell,Lunch,Open Bars,Mexican Rice
+1279,2023-03-07,Cowell,Lunch,Open Bars,Pork Carnitas
+1280,2023-03-07,Cowell,Lunch,Open Bars,Rosarita Refried Pinto Beans
+1281,2023-03-07,Cowell,Lunch,Open Bars,Soyrizo and Potatoes
+1282,2023-03-07,Cowell,Lunch,DH Baked,Mint Condition Pacific Cookie Co.
+1283,2023-03-07,Cowell,Dinner,Soups,Polynesian Chicken Soup
+1284,2023-03-07,Cowell,Dinner,Soups,Tuscan Bean & Mushroom
+1285,2023-03-07,Cowell,Dinner,Entrees,Authentic Spanish Rice
+1286,2023-03-07,Cowell,Dinner,Entrees,Charro Beans
+1287,2023-03-07,Cowell,Dinner,Entrees,Chicken Mole
+1288,2023-03-07,Cowell,Dinner,Entrees,Chipotle Jackfruit
+1289,2023-03-07,Cowell,Dinner,Entrees,Cumin Roasted Carrot
+1290,2023-03-07,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1291,2023-03-07,Cowell,Dinner,Grill,Tofu with Kosher Salt
+1292,2023-03-07,Cowell,Dinner,Pizza,Artichoke & Roasted Garlic Pizza
+1293,2023-03-07,Cowell,Dinner,Pizza,Cheese Pizza
+1294,2023-03-07,Cowell,Dinner,Clean Plate,Steamed Rice
+1295,2023-03-07,Cowell,Dinner,Open Bars,BAR Boardwalk Burgers
+1296,2023-03-07,Cowell,Dinner,Open Bars,Beef Burger
+1297,2023-03-07,Cowell,Dinner,Open Bars,Grilled Pineapple Rings
+1298,2023-03-07,Cowell,Dinner,Open Bars,Hamburger Bun
+1299,2023-03-07,Cowell,Dinner,Open Bars,Sauteed Mushrooms
+1300,2023-03-07,Cowell,Dinner,Open Bars,Sauteed Onions and Peppers
+1301,2023-03-07,Cowell,Dinner,Open Bars,Sweet Potato Fries
+1302,2023-03-07,Cowell,Dinner,Open Bars,Teriyaki Sauce (Gluten-Free)
+1303,2023-03-07,Cowell,Dinner,Open Bars,Vegan Malibu Burger Patty
+1304,2023-03-07,Cowell,Dinner,DH Baked,Lemon Poppy Seed Cake
+1305,2023-03-07,Cowell,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1306,2023-03-07,Cowell,Late Night,Grill,Garlic Fries
+1307,2023-03-07,Cowell,Late Night,Grill,Tofu with Kosher Salt
+1308,2023-03-07,Cowell,Late Night,Grill,Whaler Fish Sandwich
+1309,2023-03-07,Cowell,Late Night,Pizza,Artichoke & Roasted Garlic Pizza
+1310,2023-03-07,Cowell,Late Night,Pizza,Cheese Pizza
+1311,2023-03-07,Cowell,Late Night,Open Bars,BAR Boardwalk Burgers
+1312,2023-03-07,Cowell,Late Night,Open Bars,Beef Burger
+1313,2023-03-07,Cowell,Late Night,Open Bars,Grilled Pineapple Rings
+1314,2023-03-07,Cowell,Late Night,Open Bars,Hamburger Bun
+1315,2023-03-07,Cowell,Late Night,Open Bars,Sauteed Mushrooms
+1316,2023-03-07,Cowell,Late Night,Open Bars,Sauteed Onions and Peppers
+1317,2023-03-07,Cowell,Late Night,Open Bars,Sweet Potato Fries
+1318,2023-03-07,Cowell,Late Night,Open Bars,Teriyaki Sauce (Gluten-Free)
+1319,2023-03-07,Cowell,Late Night,Open Bars,Vegan Malibu Burger Patty
+1320,2023-03-07,Cowell,Late Night,DH Baked,Mint Condition Pacific Cookie Co.
+1321,2023-03-07,Porter,Breakfast,Breakfast,Belgian Waffle Squares
+1322,2023-03-07,Porter,Breakfast,Breakfast,Crispy Bacon
+1323,2023-03-07,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1324,2023-03-07,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1325,2023-03-07,Porter,Breakfast,Breakfast,Potatoes O'Brien
+1326,2023-03-07,Porter,Breakfast,Breakfast,"Sweet Potato, Black Bean, and Kale Hash"
+1327,2023-03-07,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1328,2023-03-07,Porter,Breakfast,Clean Plate,Steamed Rice
+1329,2023-03-07,Porter,Breakfast,Bakery,Banana Walnut Breakfast Bar
+1330,2023-03-07,Porter,Breakfast,Bakery,Orange Cranberry Breakfast Bar
+1331,2023-03-07,Porter,Breakfast,Bakery,Vegan Blackberry Turnovers
+1332,2023-03-07,Porter,Lunch,Breakfast,Belgian Waffle Squares
+1333,2023-03-07,Porter,Lunch,Breakfast,Crispy Bacon
+1334,2023-03-07,Porter,Lunch,Breakfast,Potatoes O'Brien
+1335,2023-03-07,Porter,Lunch,Breakfast,"Sweet Potato, Black Bean, and Kale Hash"
+1336,2023-03-07,Porter,Lunch,Soups,Mushroom & Barley Soup
+1337,2023-03-07,Porter,Lunch,Soups,Thai Coconut Curry Chicken Soup
+1338,2023-03-07,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1339,2023-03-07,Porter,Lunch,Grill,Tofu with Kosher Salt
+1340,2023-03-07,Porter,Lunch,Pizza,Cheese Pizza
+1341,2023-03-07,Porter,Lunch,Pizza,Thai Chicken Pizza
+1342,2023-03-07,Porter,Lunch,Clean Plate,Steamed Rice
+1343,2023-03-07,Porter,Lunch,Open Bars,Cheese Sauce
+1344,2023-03-07,Porter,Lunch,Open Bars,Condiments
+1345,2023-03-07,Porter,Lunch,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+1346,2023-03-07,Porter,Lunch,Open Bars,Nachos Bar
+1347,2023-03-07,Porter,Lunch,Open Bars,Roasted Green Beans in Garlic Oil
+1348,2023-03-07,Porter,Lunch,Open Bars,Rosarita Refried Pinto Beans
+1349,2023-03-07,Porter,Lunch,Open Bars,Taqueria Ground Beef
+1350,2023-03-07,Porter,Lunch,Open Bars,Tortilla Chips
+1351,2023-03-07,Porter,Lunch,DH Baked,Mint Condition Pacific Cookie Co.
+1352,2023-03-07,Porter,Dinner,Soups,Mushroom & Barley Soup
+1353,2023-03-07,Porter,Dinner,Soups,Thai Coconut Curry Chicken Soup
+1354,2023-03-07,Porter,Dinner,Entrees,Beyond Meat Crumble
+1355,2023-03-07,Porter,Dinner,Entrees,Filipino Chicken Adobo
+1356,2023-03-07,Porter,Dinner,Entrees,Vegan Pinakbet
+1357,2023-03-07,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1358,2023-03-07,Porter,Dinner,Grill,Tofu with Kosher Salt
+1359,2023-03-07,Porter,Dinner,Clean Plate,Steamed Rice
+1360,2023-03-07,Porter,Dinner,Bakery,Lemon Poppy Seed Cake
+1361,2023-03-07,Porter,Dinner,Open Bars,BAR Wings
+1362,2023-03-07,Porter,Dinner,Open Bars,BBQ Wings
+1363,2023-03-07,Porter,Dinner,Open Bars,Buffalo Cauliflower
+1364,2023-03-07,Porter,Dinner,Open Bars,Condiments
+1365,2023-03-07,Porter,Dinner,Open Bars,Hawaiian Coleslaw
+1366,2023-03-07,Porter,Dinner,Open Bars,Hot 'N Spicy Wings
+1367,2023-03-07,Porter,Dinner,Open Bars,Teriyaki Glazed Wings
+1368,2023-03-07,Porter,Dinner,Open Bars,Vegan Tenders
+1369,2023-03-07,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1370,2023-03-07,Porter,Late Night,Grill,Curly Fries
+1371,2023-03-07,Porter,Late Night,Grill,Falafel  Wrap
+1372,2023-03-07,Porter,Late Night,Grill,Tofu with Kosher Salt
+1373,2023-03-07,Porter,Late Night,Pizza,Cheese Pizza
+1374,2023-03-07,Porter,Late Night,Pizza,Thai Chicken Pizza
+1375,2023-03-07,Porter,Late Night,Open Bars,BAR Wings
+1376,2023-03-07,Porter,Late Night,Open Bars,BBQ Wings
+1377,2023-03-07,Porter,Late Night,Open Bars,Buffalo Cauliflower
+1378,2023-03-07,Porter,Late Night,Open Bars,Condiments
+1379,2023-03-07,Porter,Late Night,Open Bars,Hawaiian Coleslaw
+1380,2023-03-07,Porter,Late Night,Open Bars,Hot 'N Spicy Wings
+1381,2023-03-07,Porter,Late Night,Open Bars,Teriyaki Glazed Wings
+1382,2023-03-07,Porter,Late Night,Open Bars,Vegan Tenders
+1383,2023-03-08,Nine,Breakfast,Breakfast,Belgian Waffle Squares
+1384,2023-03-08,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1385,2023-03-08,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1386,2023-03-08,Nine,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+1387,2023-03-08,Nine,Breakfast,Breakfast,Sausage Patties
+1388,2023-03-08,Nine,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+1389,2023-03-08,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1390,2023-03-08,Nine,Breakfast,Clean Plate,Steamed Rice
+1391,2023-03-08,Nine,Lunch,Soups,Creamy Wild Mushroom Bisque
+1392,2023-03-08,Nine,Lunch,Soups,Tomato Soup
+1393,2023-03-08,Nine,Lunch,Entrees,Italian Roasted Chicken
+1394,2023-03-08,Nine,Lunch,Entrees,Meatless Vegan Meatballs In Red Pepper Sauce
+1395,2023-03-08,Nine,Lunch,Entrees,Roasted Zucchini and Peppers
+1396,2023-03-08,Nine,Lunch,Entrees,Vegan Garlic Fettuccini
+1397,2023-03-08,Nine,Lunch,Grill,Sidewinder Fry
+1398,2023-03-08,Nine,Lunch,Grill,Torta Ahogada
+1399,2023-03-08,Nine,Lunch,Pizza,Cheese Pizza
+1400,2023-03-08,Nine,Lunch,Pizza,Veggie Supreme Pizza
+1401,2023-03-08,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+1402,2023-03-08,Nine,Lunch,Clean Plate,Steamed Rice
+1403,2023-03-08,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+1404,2023-03-08,Nine,Lunch,Bakery,Vegan Raspberry Granola Bars
+1405,2023-03-08,Nine,Lunch,Open Bars,Bar Taqueria
+1406,2023-03-08,Nine,Lunch,Open Bars,Condiments
+1407,2023-03-08,Nine,Lunch,Open Bars,Corn Tortillas
+1408,2023-03-08,Nine,Lunch,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+1409,2023-03-08,Nine,Lunch,Open Bars,Mexican Rice
+1410,2023-03-08,Nine,Lunch,Open Bars,Pork Carnitas
+1411,2023-03-08,Nine,Lunch,Open Bars,Rosarita Refried Pinto Beans
+1412,2023-03-08,Nine,Dinner,Soups,Creamy Wild Mushroom Bisque
+1413,2023-03-08,Nine,Dinner,Soups,Tomato Soup
+1414,2023-03-08,Nine,Dinner,Entrees,Italian Roasted Tofu
+1415,2023-03-08,Nine,Dinner,Entrees,Marinara Sauce
+1416,2023-03-08,Nine,Dinner,Entrees,Polpette Italia
+1417,2023-03-08,Nine,Dinner,Entrees,Roasted Brussels' Sprouts
+1418,2023-03-08,Nine,Dinner,Entrees,Soft Polenta
+1419,2023-03-08,Nine,Dinner,Pizza,Cheese Pizza
+1420,2023-03-08,Nine,Dinner,Pizza,Veggie Supreme Pizza
+1421,2023-03-08,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+1422,2023-03-08,Nine,Dinner,Clean Plate,Steamed Rice
+1423,2023-03-08,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+1424,2023-03-08,Nine,Dinner,Bakery,Chocolate Mocha Cake
+1425,2023-03-08,Nine,Dinner,Bakery,Vegan Apple Cranberry Pie
+1426,2023-03-08,Nine,Dinner,Open Bars,Chicken Shawarma
+1427,2023-03-08,Nine,Dinner,Open Bars,Eggplant with Tomato Sauce
+1428,2023-03-08,Nine,Dinner,Open Bars,Falafels
+1429,2023-03-08,Nine,Dinner,Open Bars,Garlic Fries
+1430,2023-03-08,Nine,Dinner,Open Bars,Original Naan
+1431,2023-03-08,Nine,Dinner,Open Bars,Spiced Almond Couscous
+1432,2023-03-08,Nine,Dinner,Open Bars,Tahini Sauce
+1433,2023-03-08,Nine,Dinner,Open Bars,Zhoug (Jalapeno & Cilantro Salsa)
+1434,2023-03-08,Nine,Late Night,Pizza,Cheese Pizza
+1435,2023-03-08,Nine,Late Night,Pizza,Veggie Supreme Pizza
+1436,2023-03-08,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+1437,2023-03-08,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+1438,2023-03-08,Nine,Late Night,Open Bars,Chicken Shawarma
+1439,2023-03-08,Nine,Late Night,Open Bars,Eggplant with Tomato Sauce
+1440,2023-03-08,Nine,Late Night,Open Bars,Falafels
+1441,2023-03-08,Nine,Late Night,Open Bars,Garlic Fries
+1442,2023-03-08,Nine,Late Night,Open Bars,Original Naan
+1443,2023-03-08,Nine,Late Night,Open Bars,Spiced Almond Couscous
+1444,2023-03-08,Nine,Late Night,Open Bars,Tahini Sauce
+1445,2023-03-08,Nine,Late Night,Open Bars,Zhoug (Jalapeno & Cilantro Salsa)
+1446,2023-03-08,Cowell,Breakfast,Breakfast,Bob's Red Mill Gluten-Free Pancakes
+1447,2023-03-08,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1448,2023-03-08,Cowell,Breakfast,Breakfast,Mexican Chorizo Sausage
+1449,2023-03-08,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1450,2023-03-08,Cowell,Breakfast,Breakfast,Soyrizo Tofu Scramble
+1451,2023-03-08,Cowell,Breakfast,Breakfast,Triangle Hash Brown Patty
+1452,2023-03-08,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1453,2023-03-08,Cowell,Breakfast,Clean Plate,Steamed Rice
+1454,2023-03-08,Cowell,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+1455,2023-03-08,Cowell,Breakfast,Bakery,Assorted Scones
+1456,2023-03-08,Cowell,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+1457,2023-03-08,Cowell,Breakfast,Bakery,Mocha Chip Breakfast Bar
+1458,2023-03-08,Cowell,Lunch,Soups,Cream of Carrot & Dill Soup
+1459,2023-03-08,Cowell,Lunch,Soups,Three Sisters Crave Soup
+1460,2023-03-08,Cowell,Lunch,Entrees,Calypso Black Beans and Rice
+1461,2023-03-08,Cowell,Lunch,Entrees,Cornmeal Crusted Catfish
+1462,2023-03-08,Cowell,Lunch,Entrees,Grilled Balsamic Tofu
+1463,2023-03-08,Cowell,Lunch,Entrees,Vegan Collard Greens
+1464,2023-03-08,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1465,2023-03-08,Cowell,Lunch,Grill,Tofu with Kosher Salt
+1466,2023-03-08,Cowell,Lunch,Pizza,Cheese Pizza
+1467,2023-03-08,Cowell,Lunch,Pizza,Mexican Pizza with Chorizo
+1468,2023-03-08,Cowell,Lunch,Clean Plate,Steamed Rice
+1469,2023-03-08,Cowell,Lunch,Bakery,Vegan Raspberry Granola Bars
+1470,2023-03-08,Cowell,Lunch,Open Bars,BAR Hot Dog
+1471,2023-03-08,Cowell,Lunch,Open Bars,Beef Frank
+1472,2023-03-08,Cowell,Lunch,Open Bars,Cheese Sauce
+1473,2023-03-08,Cowell,Lunch,Open Bars,Chili con Carne
+1474,2023-03-08,Cowell,Lunch,Open Bars,Condiments
+1475,2023-03-08,Cowell,Lunch,Open Bars,French Fries
+1476,2023-03-08,Cowell,Lunch,Open Bars,Hot Dog Vegan
+1477,2023-03-08,Cowell,Lunch,Open Bars,Sauteed Onions and Peppers
+1478,2023-03-08,Cowell,Lunch,DH Baked,Mexican Chocolate Cookie
+1479,2023-03-08,Cowell,Dinner,Soups,Cream of Carrot & Dill Soup
+1480,2023-03-08,Cowell,Dinner,Soups,Three Sisters Crave Soup
+1481,2023-03-08,Cowell,Dinner,Entrees,BBQ Tofu
+1482,2023-03-08,Cowell,Dinner,Entrees,Pan Handle Rotisserie Chicken
+1483,2023-03-08,Cowell,Dinner,Entrees,Sauteed Rainbow Chard with Garlic Oil
+1484,2023-03-08,Cowell,Dinner,Entrees,Vegan Garlic Mashed Potatoes
+1485,2023-03-08,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1486,2023-03-08,Cowell,Dinner,Grill,Tofu with Kosher Salt
+1487,2023-03-08,Cowell,Dinner,Pizza,Cheese Pizza
+1488,2023-03-08,Cowell,Dinner,Pizza,Mexican Pizza with Chorizo
+1489,2023-03-08,Cowell,Dinner,Clean Plate,Steamed Rice
+1490,2023-03-08,Cowell,Dinner,Bakery,Chocolate Mocha Cake
+1491,2023-03-08,Cowell,Dinner,Bakery,Vegan Apple Cranberry Pie
+1492,2023-03-08,Cowell,Dinner,Open Bars,Bar Pasta
+1493,2023-03-08,Cowell,Dinner,Open Bars,Bolognese Sauce
+1494,2023-03-08,Cowell,Dinner,Open Bars,Cheese Tortellini
+1495,2023-03-08,Cowell,Dinner,Open Bars,Cheesy Garlic Bread Sticks
+1496,2023-03-08,Cowell,Dinner,Open Bars,Condiments
+1497,2023-03-08,Cowell,Dinner,Open Bars,Gluten Free Rotini Pasta
+1498,2023-03-08,Cowell,Dinner,Open Bars,Marinara Sauce
+1499,2023-03-08,Cowell,Dinner,Open Bars,Penne
+1500,2023-03-08,Cowell,Dinner,Open Bars,Roasted Broccoli Rabe
+1501,2023-03-08,Cowell,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1502,2023-03-08,Cowell,Late Night,Grill,Pesto Chicken Sandwich
+1503,2023-03-08,Cowell,Late Night,Grill,Sweet Potato Fries
+1504,2023-03-08,Cowell,Late Night,Grill,Tofu with Kosher Salt
+1505,2023-03-08,Cowell,Late Night,Pizza,Cheese Pizza
+1506,2023-03-08,Cowell,Late Night,Pizza,Mexican Pizza with Chorizo
+1507,2023-03-08,Cowell,Late Night,Open Bars,Bar Pasta
+1508,2023-03-08,Cowell,Late Night,Open Bars,Bolognese Sauce
+1509,2023-03-08,Cowell,Late Night,Open Bars,Cheese Tortellini
+1510,2023-03-08,Cowell,Late Night,Open Bars,Cheesy Garlic Bread Sticks
+1511,2023-03-08,Cowell,Late Night,Open Bars,Condiments
+1512,2023-03-08,Cowell,Late Night,Open Bars,Gluten Free Rotini Pasta
+1513,2023-03-08,Cowell,Late Night,Open Bars,Marinara Sauce
+1514,2023-03-08,Cowell,Late Night,Open Bars,Penne
+1515,2023-03-08,Cowell,Late Night,Open Bars,Roasted Broccoli Rabe
+1516,2023-03-08,Cowell,Late Night,DH Baked,Mexican Chocolate Cookie
+1517,2023-03-08,Merrill,Breakfast,Breakfast,Belgian Waffle Squares
+1518,2023-03-08,Merrill,Breakfast,Breakfast,Ham Steaks
+1519,2023-03-08,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1520,2023-03-08,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1521,2023-03-08,Merrill,Breakfast,Breakfast,Spicy Gold Potatoes
+1522,2023-03-08,Merrill,Breakfast,Breakfast,Thai Tofu Scramble
+1523,2023-03-08,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1524,2023-03-08,Merrill,Breakfast,Clean Plate,Steamed Rice
+1525,2023-03-08,Merrill,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+1526,2023-03-08,Merrill,Breakfast,Bakery,Assorted Scones
+1527,2023-03-08,Merrill,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+1528,2023-03-08,Merrill,Breakfast,Bakery,Mocha Chip Breakfast Bar
+1529,2023-03-08,Merrill,Lunch,Soups,Fire Roasted Corn Soup
+1530,2023-03-08,Merrill,Lunch,Soups,Organic Vegan Chili
+1531,2023-03-08,Merrill,Lunch,Entrees,Bacon Cheeseburger Meatloaf
+1532,2023-03-08,Merrill,Lunch,Entrees,Sauteed Rainbow Chard with Garlic Oil
+1533,2023-03-08,Merrill,Lunch,Entrees,Tempeh Roasted with Salt
+1534,2023-03-08,Merrill,Lunch,Entrees,Vegan Garlic Mashed Potatoes
+1535,2023-03-08,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1536,2023-03-08,Merrill,Lunch,Grill,Tofu with Kosher Salt
+1537,2023-03-08,Merrill,Lunch,Pizza,Cheese Pizza
+1538,2023-03-08,Merrill,Lunch,Pizza,Pepperoni Pizza
+1539,2023-03-08,Merrill,Lunch,Clean Plate,Steamed Rice
+1540,2023-03-08,Merrill,Lunch,Bakery,Vegan Raspberry Granola Bars
+1541,2023-03-08,Merrill,Lunch,Open Bars,BAR Wings
+1542,2023-03-08,Merrill,Lunch,Open Bars,BBQ Wings
+1543,2023-03-08,Merrill,Lunch,Open Bars,Baked Beans
+1544,2023-03-08,Merrill,Lunch,Open Bars,Condiments
+1545,2023-03-08,Merrill,Lunch,Open Bars,Hawaiian Coleslaw
+1546,2023-03-08,Merrill,Lunch,Open Bars,Hot 'N Spicy Wings
+1547,2023-03-08,Merrill,Lunch,Open Bars,Teriyaki Glazed Wings
+1548,2023-03-08,Merrill,Lunch,Open Bars,Vegan Tenders
+1549,2023-03-08,Merrill,Lunch,DH Baked,Mexican Chocolate Cookie
+1550,2023-03-08,Merrill,Dinner,Soups,Fire Roasted Corn Soup
+1551,2023-03-08,Merrill,Dinner,Soups,Organic Vegan Chili
+1552,2023-03-08,Merrill,Dinner,Entrees,Black Beans with Garlic
+1553,2023-03-08,Merrill,Dinner,Entrees,Roast Pork Loin with Parsley and Shallot Sauce
+1554,2023-03-08,Merrill,Dinner,Entrees,Roasted Brussels Sprouts
+1555,2023-03-08,Merrill,Dinner,Entrees,Steamed Brown Rice
+1556,2023-03-08,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1557,2023-03-08,Merrill,Dinner,Grill,Tofu with Kosher Salt
+1558,2023-03-08,Merrill,Dinner,Pizza,Cheese Pizza
+1559,2023-03-08,Merrill,Dinner,Pizza,Pepperoni Pizza
+1560,2023-03-08,Merrill,Dinner,Clean Plate,Steamed Rice
+1561,2023-03-08,Merrill,Dinner,Bakery,Chocolate Mocha Cake
+1562,2023-03-08,Merrill,Dinner,Bakery,Vegan Apple Cranberry Pie
+1563,2023-03-08,Merrill,Dinner,Open Bars,Bar Indian
+1564,2023-03-08,Merrill,Dinner,Open Bars,Basmati Rice Pullao
+1565,2023-03-08,Merrill,Dinner,Open Bars,Chana Masala
+1566,2023-03-08,Merrill,Dinner,Open Bars,Chicken Tikka Masala
+1567,2023-03-08,Merrill,Dinner,Open Bars,Dal Saag
+1568,2023-03-08,Merrill,Dinner,Open Bars,Original Naan
+1569,2023-03-08,Merrill,Dinner,Open Bars,Potato Samosas
+1570,2023-03-08,Porter,Breakfast,Breakfast,Banana and Coconut Pancakes
+1571,2023-03-08,Porter,Breakfast,Breakfast,Ham Steaks
+1572,2023-03-08,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1573,2023-03-08,Porter,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+1574,2023-03-08,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1575,2023-03-08,Porter,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+1576,2023-03-08,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1577,2023-03-08,Porter,Breakfast,Clean Plate,Steamed Rice
+1578,2023-03-08,Porter,Breakfast,Bakery,Apple Cinnamon Breakfast Bar
+1579,2023-03-08,Porter,Breakfast,Bakery,Assorted Scones
+1580,2023-03-08,Porter,Breakfast,Bakery,Lemon Blueberry Breakfast Bar
+1581,2023-03-08,Porter,Breakfast,Bakery,Mocha Chip Breakfast Bar
+1582,2023-03-08,Porter,Lunch,Soups,Organic Kale and Sweet Potato Soup
+1583,2023-03-08,Porter,Lunch,Soups,Portuguese Sausage and Bean Soup
+1584,2023-03-08,Porter,Lunch,Entrees,Orange Glazed Chicken
+1585,2023-03-08,Porter,Lunch,Entrees,Orange Glazed Gardein
+1586,2023-03-08,Porter,Lunch,Entrees,Steamed Bok Choy
+1587,2023-03-08,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1588,2023-03-08,Porter,Lunch,Grill,Tofu with Kosher Salt
+1589,2023-03-08,Porter,Lunch,Pizza,"Artichoke Flatbread with Tomato, Spinach, and Goat Cheese"
+1590,2023-03-08,Porter,Lunch,Pizza,Cheese Pizza
+1591,2023-03-08,Porter,Lunch,Clean Plate,Steamed Rice
+1592,2023-03-08,Porter,Lunch,Open Bars,Armenian Salad
+1593,2023-03-08,Porter,Lunch,Open Bars,Harissa Roasted Chicken
+1594,2023-03-08,Porter,Lunch,Open Bars,North African Bar
+1595,2023-03-08,Porter,Lunch,Open Bars,Roasted Cauliflower and Almond Salad
+1596,2023-03-08,Porter,Lunch,Open Bars,Spiced Almond Couscous
+1597,2023-03-08,Porter,Lunch,Open Bars,Tzatziki Sauce
+1598,2023-03-08,Porter,Lunch,DH Baked,Mexican Chocolate Cookie
+1599,2023-03-08,Porter,Dinner,Soups,Organic Kale and Sweet Potato Soup
+1600,2023-03-08,Porter,Dinner,Soups,Portuguese Sausage and Bean Soup
+1601,2023-03-08,Porter,Dinner,Entrees,Island Beef Steak
+1602,2023-03-08,Porter,Dinner,Entrees,Roasted Carrots
+1603,2023-03-08,Porter,Dinner,Entrees,Spicy Gardein with Garlic & Basil
+1604,2023-03-08,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1605,2023-03-08,Porter,Dinner,Grill,Tofu with Kosher Salt
+1606,2023-03-08,Porter,Dinner,Clean Plate,Steamed Rice
+1607,2023-03-08,Porter,Dinner,Bakery,Chocolate Mocha Cake
+1608,2023-03-08,Porter,Dinner,Bakery,Vegan Apple Cranberry Pie
+1609,2023-03-08,Porter,Dinner,Open Bars,Condiments
+1610,2023-03-08,Porter,Dinner,Open Bars,Egg Noodles
+1611,2023-03-08,Porter,Dinner,Open Bars,Gluten Free Rotini Pasta
+1612,2023-03-08,Porter,Dinner,Open Bars,Italian Roasted Squash and Carrots
+1613,2023-03-08,Porter,Dinner,Open Bars,Marinara Sauce
+1614,2023-03-08,Porter,Dinner,Open Bars,Meatball Bar
+1615,2023-03-08,Porter,Dinner,Open Bars,Meatballs
+1616,2023-03-08,Porter,Dinner,Open Bars,Swedish Mushroom Sauce
+1617,2023-03-08,Porter,Dinner,Open Bars,Vegan Meatballs
+1618,2023-03-08,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1619,2023-03-08,Porter,Late Night,Grill,Grilled Reuben Sandwich
+1620,2023-03-08,Porter,Late Night,Grill,Sweet Potato Fries
+1621,2023-03-08,Porter,Late Night,Grill,Tofu with Kosher Salt
+1622,2023-03-08,Porter,Late Night,Pizza,"Artichoke Flatbread with Tomato, Spinach, and Goat Cheese"
+1623,2023-03-08,Porter,Late Night,Pizza,Cheese Pizza
+1624,2023-03-08,Porter,Late Night,Open Bars,Condiments
+1625,2023-03-08,Porter,Late Night,Open Bars,Egg Noodles
+1626,2023-03-08,Porter,Late Night,Open Bars,Gluten Free Rotini Pasta
+1627,2023-03-08,Porter,Late Night,Open Bars,Italian Roasted Squash and Carrots
+1628,2023-03-08,Porter,Late Night,Open Bars,Marinara Sauce
+1629,2023-03-08,Porter,Late Night,Open Bars,Meatball Bar
+1630,2023-03-08,Porter,Late Night,Open Bars,Meatballs
+1631,2023-03-08,Porter,Late Night,Open Bars,Swedish Mushroom Sauce
+1632,2023-03-08,Porter,Late Night,Open Bars,Vegan Meatballs
+1633,2023-03-09,Nine,Breakfast,Breakfast,Blueberry Whole Wheat Pancakes
+1634,2023-03-09,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1635,2023-03-09,Nine,Breakfast,Breakfast,Mexican Chorizo Sausage
+1636,2023-03-09,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1637,2023-03-09,Nine,Breakfast,Breakfast,Triangle Hash Brown Patty
+1638,2023-03-09,Nine,Breakfast,Breakfast,Vegan Happy Scramble
+1639,2023-03-09,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1640,2023-03-09,Nine,Breakfast,Clean Plate,Steamed Rice
+1641,2023-03-09,Nine,Lunch,Soups,Creamy Broccoli Cheddar Soup
+1642,2023-03-09,Nine,Lunch,Soups,Xochitl Soup
+1643,2023-03-09,Nine,Lunch,Entrees,Chicken Pot Pie
+1644,2023-03-09,Nine,Lunch,Entrees,Peas & Onions
+1645,2023-03-09,Nine,Lunch,Entrees,Vegan Pot Pie
+1646,2023-03-09,Nine,Lunch,Grill,Sweet Potato Fries
+1647,2023-03-09,Nine,Lunch,Grill,Vietnamese Pork Banh Mi Sandwich
+1648,2023-03-09,Nine,Lunch,Pizza,Bacon and Ranch Pizza
+1649,2023-03-09,Nine,Lunch,Pizza,Cheese Pizza
+1650,2023-03-09,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+1651,2023-03-09,Nine,Lunch,Clean Plate,Steamed Rice
+1652,2023-03-09,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+1653,2023-03-09,Nine,Lunch,Bakery,Bakery Coconut Almond Magic Bar
+1654,2023-03-09,Nine,Lunch,Open Bars,Armenian Salad
+1655,2023-03-09,Nine,Lunch,Open Bars,Beef and Lamb Gyro with Peppers & Onion
+1656,2023-03-09,Nine,Lunch,Open Bars,Eggplant with Tomato Sauce
+1657,2023-03-09,Nine,Lunch,Open Bars,Falafels
+1658,2023-03-09,Nine,Lunch,Open Bars,Pita Bread
+1659,2023-03-09,Nine,Lunch,Open Bars,Tabouleh Salad
+1660,2023-03-09,Nine,Lunch,Open Bars,Tzatziki Sauce
+1661,2023-03-09,Nine,Dinner,Soups,Creamy Broccoli Cheddar Soup
+1662,2023-03-09,Nine,Dinner,Soups,Xochitl Soup
+1663,2023-03-09,Nine,Dinner,Entrees,Herb Roasted Fingerling Potatoes
+1664,2023-03-09,Nine,Dinner,Entrees,Roasted Broccoli Rabe
+1665,2023-03-09,Nine,Dinner,Entrees,Sicilian Artichoke Rockfish
+1666,2023-03-09,Nine,Dinner,Entrees,White Beans
+1667,2023-03-09,Nine,Dinner,Pizza,Bacon and Ranch Pizza
+1668,2023-03-09,Nine,Dinner,Pizza,Cheese Pizza
+1669,2023-03-09,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+1670,2023-03-09,Nine,Dinner,Clean Plate,Steamed Rice
+1671,2023-03-09,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+1672,2023-03-09,Nine,Dinner,Bakery,Apricot Cake
+1673,2023-03-09,Nine,Dinner,Bakery,Red Velvet Cake
+1674,2023-03-09,Nine,Dinner,Open Bars,Bar Indian
+1675,2023-03-09,Nine,Dinner,Open Bars,Basmati Rice Pullao
+1676,2023-03-09,Nine,Dinner,Open Bars,Cauliflower Lentil Dal
+1677,2023-03-09,Nine,Dinner,Open Bars,Chicken Vindaloo
+1678,2023-03-09,Nine,Dinner,Open Bars,Original Naan
+1679,2023-03-09,Nine,Dinner,Open Bars,Potato Samosas
+1680,2023-03-09,Nine,Dinner,Open Bars,Tofu Vindaloo
+1681,2023-03-09,Nine,Late Night,Pizza,Bacon and Ranch Pizza
+1682,2023-03-09,Nine,Late Night,Pizza,Cheese Pizza
+1683,2023-03-09,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+1684,2023-03-09,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+1685,2023-03-09,Nine,Late Night,Open Bars,Bar Indian
+1686,2023-03-09,Nine,Late Night,Open Bars,Basmati Rice Pullao
+1687,2023-03-09,Nine,Late Night,Open Bars,Cauliflower Lentil Dal
+1688,2023-03-09,Nine,Late Night,Open Bars,Chicken Vindaloo
+1689,2023-03-09,Nine,Late Night,Open Bars,Original Naan
+1690,2023-03-09,Nine,Late Night,Open Bars,Potato Samosas
+1691,2023-03-09,Nine,Late Night,Open Bars,Tofu Vindaloo
+1692,2023-03-09,Cowell,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+1693,2023-03-09,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1694,2023-03-09,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1695,2023-03-09,Cowell,Breakfast,Breakfast,Sausage Links
+1696,2023-03-09,Cowell,Breakfast,Breakfast,Texas French Toast
+1697,2023-03-09,Cowell,Breakfast,Breakfast,Thai Tofu Scramble
+1698,2023-03-09,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1699,2023-03-09,Merrill,Breakfast,Breakfast,Buttermilk Pancakes
+1700,2023-03-09,Merrill,Breakfast,Breakfast,Chicken Apple Sausage
+1701,2023-03-09,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1702,2023-03-09,Merrill,Breakfast,Breakfast,Harissa Potatoes
+1703,2023-03-09,Merrill,Breakfast,Breakfast,Natural Bridges Tofu Scramble
+1704,2023-03-09,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1705,2023-03-09,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1706,2023-03-09,Merrill,Breakfast,Clean Plate,Steamed Rice
+1707,2023-03-09,Merrill,Breakfast,Bakery,Blueberry Oat Bran Breakfast Bar
+1708,2023-03-09,Merrill,Breakfast,Bakery,Lemon Poppyseed Breakfast Bar
+1709,2023-03-09,Merrill,Breakfast,Bakery,Zucchini Bread
+1710,2023-03-09,Merrill,Lunch,Soups,Lentil & Lemon Soup
+1711,2023-03-09,Merrill,Lunch,Entrees,Orange Glazed Chicken
+1712,2023-03-09,Merrill,Lunch,Entrees,Orange Glazed Gardein
+1713,2023-03-09,Merrill,Lunch,Entrees,Roasted Green Beans in Garlic Oil
+1714,2023-03-09,Merrill,Lunch,Entrees,Steamed Brown Rice
+1715,2023-03-09,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1716,2023-03-09,Merrill,Lunch,Grill,Tofu with Kosher Salt
+1717,2023-03-09,Merrill,Lunch,Pizza,Cheese Pizza
+1718,2023-03-09,Merrill,Lunch,Pizza,Thai Chicken Pizza
+1719,2023-03-09,Merrill,Lunch,Clean Plate,Steamed Rice
+1720,2023-03-09,Merrill,Lunch,Bakery,Bakery Coconut Almond Magic Bar
+1721,2023-03-09,Merrill,Lunch,Open Bars,Bar Pasta
+1722,2023-03-09,Merrill,Lunch,Open Bars,Cheese Ravioli
+1723,2023-03-09,Merrill,Lunch,Open Bars,Cheesy Garlic Bread Sticks
+1724,2023-03-09,Merrill,Lunch,Open Bars,Condiments
+1725,2023-03-09,Merrill,Lunch,Open Bars,Gluten Free Rotini Pasta
+1726,2023-03-09,Merrill,Lunch,Open Bars,Marinara Sauce
+1727,2023-03-09,Merrill,Lunch,Open Bars,Penne
+1728,2023-03-09,Merrill,Lunch,Open Bars,Pesto Cream Sauce
+1729,2023-03-09,Merrill,Lunch,Open Bars,Sauteed Rainbow Chard with Garlic Oil
+1730,2023-03-09,Merrill,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+1731,2023-03-09,Merrill,Lunch,Miscellaneous,Soup of the Day
+1732,2023-03-09,Merrill,Dinner,Soups,Lentil & Lemon Soup
+1733,2023-03-09,Merrill,Dinner,Entrees,Spicy Gardein with Garlic & Basil
+1734,2023-03-09,Merrill,Dinner,Entrees,Sticky Rice
+1735,2023-03-09,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1736,2023-03-09,Merrill,Dinner,Grill,Tofu with Kosher Salt
+1737,2023-03-09,Merrill,Dinner,Pizza,Cheese Pizza
+1738,2023-03-09,Merrill,Dinner,Pizza,Thai Chicken Pizza
+1739,2023-03-09,Merrill,Dinner,Clean Plate,Steamed Rice
+1740,2023-03-09,Merrill,Dinner,Bakery,Apricot Cake
+1741,2023-03-09,Merrill,Dinner,Bakery,Red Velvet Cake
+1742,2023-03-09,Merrill,Dinner,Open Bars,Black Beans with Cumin Spice
+1743,2023-03-09,Merrill,Dinner,Open Bars,Braised Kale with Shallots
+1744,2023-03-09,Merrill,Dinner,Open Bars,Condiments
+1745,2023-03-09,Merrill,Dinner,Open Bars,Peruvian Bar
+1746,2023-03-09,Merrill,Dinner,Open Bars,Peruvian Beef Saltado
+1747,2023-03-09,Merrill,Dinner,Open Bars,Roasted Corn
+1748,2023-03-09,Merrill,Dinner,Open Bars,White Quinoa
+1749,2023-03-09,Merrill,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+1750,2023-03-09,Merrill,Dinner,Miscellaneous,Soup of the Day
+1751,2023-03-09,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1752,2023-03-09,Porter,Breakfast,Breakfast,Orange French Toast
+1753,2023-03-09,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1754,2023-03-09,Porter,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+1755,2023-03-09,Porter,Breakfast,Breakfast,Triangle Hash Brown Patty
+1756,2023-03-09,Porter,Breakfast,Breakfast,Turkey Sausage Patties
+1757,2023-03-09,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1758,2023-03-09,Porter,Breakfast,Clean Plate,Steamed Rice
+1759,2023-03-09,Porter,Breakfast,Bakery,Blueberry Oat Bran Breakfast Bar
+1760,2023-03-09,Porter,Breakfast,Bakery,Lemon Poppyseed Breakfast Bar
+1761,2023-03-09,Porter,Breakfast,Bakery,Zucchini Bread
+1762,2023-03-09,Porter,Lunch,Soups,Chicken and Pork Sausage Gumbo
+1763,2023-03-09,Porter,Lunch,Soups,Sweet & Sour Mushroom Soup
+1764,2023-03-09,Porter,Lunch,Entrees,Steamed Broccoli
+1765,2023-03-09,Porter,Lunch,Entrees,Stir Fry Beef and Broccoli
+1766,2023-03-09,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1767,2023-03-09,Porter,Lunch,Grill,Tofu with Kosher Salt
+1768,2023-03-09,Porter,Lunch,Pizza,Cheese Pizza
+1769,2023-03-09,Porter,Lunch,Pizza,New Orleans Pizza
+1770,2023-03-09,Porter,Lunch,Clean Plate,Steamed Rice
+1771,2023-03-09,Porter,Lunch,Open Bars,BAR Boardwalk Burgers
+1772,2023-03-09,Porter,Lunch,Open Bars,Beef Burger
+1773,2023-03-09,Porter,Lunch,Open Bars,Caramelized Onions
+1774,2023-03-09,Porter,Lunch,Open Bars,Chili con Carne
+1775,2023-03-09,Porter,Lunch,Open Bars,Hamburger Bun
+1776,2023-03-09,Porter,Lunch,Open Bars,Sauteed Mushrooms
+1777,2023-03-09,Porter,Lunch,Open Bars,Steak Cut Fries
+1778,2023-03-09,Porter,Lunch,Open Bars,Vegan Malibu Burger Patty
+1779,2023-03-09,Porter,Lunch,DH Baked,Vegan Chocolate Chip Cookie
+1780,2023-03-09,Porter,Dinner,Soups,Chicken and Pork Sausage Gumbo
+1781,2023-03-09,Porter,Dinner,Soups,Sweet & Sour Mushroom Soup
+1782,2023-03-09,Porter,Dinner,Entrees,Cilantro Lime Chicken
+1783,2023-03-09,Porter,Dinner,Entrees,Lemon Rice
+1784,2023-03-09,Porter,Dinner,Entrees,Stir Fry Vegetables
+1785,2023-03-09,Porter,Dinner,Entrees,Teriyaki Tofu
+1786,2023-03-09,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1787,2023-03-09,Porter,Dinner,Grill,Tofu with Kosher Salt
+1788,2023-03-09,Porter,Dinner,Clean Plate,Steamed Rice
+1789,2023-03-09,Porter,Dinner,Bakery,Apricot Cake
+1790,2023-03-09,Porter,Dinner,Bakery,Red Velvet Cake
+1791,2023-03-09,Porter,Dinner,Open Bars,Bar Taqueria
+1792,2023-03-09,Porter,Dinner,Open Bars,Condiments
+1793,2023-03-09,Porter,Dinner,Open Bars,Corn Tortillas
+1794,2023-03-09,Porter,Dinner,Open Bars,"Flour Tortilla 6"""
+1795,2023-03-09,Porter,Dinner,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+1796,2023-03-09,Porter,Dinner,Open Bars,Mexican Rice
+1797,2023-03-09,Porter,Dinner,Open Bars,Rosarita Refried Pinto Beans
+1798,2023-03-09,Porter,Dinner,Open Bars,Taqueria Chicken
+1799,2023-03-09,Porter,Dinner,Open Bars,Taqueria Ground Beef
+1800,2023-03-09,Porter,Dinner,DH Baked,Vegan Chocolate Chip Cookie
+1801,2023-03-09,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1802,2023-03-09,Porter,Late Night,Grill,Chicken Nuggets
+1803,2023-03-09,Porter,Late Night,Grill,French Fries
+1804,2023-03-09,Porter,Late Night,Grill,Tofu with Kosher Salt
+1805,2023-03-09,Porter,Late Night,Pizza,Cheese Pizza
+1806,2023-03-09,Porter,Late Night,Pizza,New Orleans Pizza
+1807,2023-03-09,Porter,Late Night,Open Bars,Bar Taqueria
+1808,2023-03-09,Porter,Late Night,Open Bars,Condiments
+1809,2023-03-09,Porter,Late Night,Open Bars,Corn Tortillas
+1810,2023-03-09,Porter,Late Night,Open Bars,"Flour Tortilla 6"""
+1811,2023-03-09,Porter,Late Night,Open Bars,Happy Plant Vegan Chorizo Crumbles and Potatoes
+1812,2023-03-09,Porter,Late Night,Open Bars,Mexican Rice
+1813,2023-03-09,Porter,Late Night,Open Bars,Rosarita Refried Pinto Beans
+1814,2023-03-09,Porter,Late Night,Open Bars,Taqueria Chicken
+1815,2023-03-09,Porter,Late Night,Open Bars,Taqueria Ground Beef
+1816,2023-03-10,Nine,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1817,2023-03-10,Nine,Breakfast,Breakfast,Harissa Potatoes
+1818,2023-03-10,Nine,Breakfast,Breakfast,Orange French Toast
+1819,2023-03-10,Nine,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1820,2023-03-10,Nine,Breakfast,Breakfast,Thai Tofu Scramble
+1821,2023-03-10,Nine,Breakfast,Breakfast,Turkey Sausage Patties
+1822,2023-03-10,Nine,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1823,2023-03-10,Nine,Breakfast,Clean Plate,Steamed Rice
+1824,2023-03-10,Nine,Lunch,Soups,Mushroom & Barley Soup
+1825,2023-03-10,Nine,Lunch,Soups,Thai Coconut Curry Chicken Soup
+1826,2023-03-10,Nine,Lunch,Entrees,Calypso Black Beans and Rice
+1827,2023-03-10,Nine,Lunch,Entrees,Havana Banana BBQ'd Chicken
+1828,2023-03-10,Nine,Lunch,Entrees,Roasted Carrots
+1829,2023-03-10,Nine,Lunch,Grill,Barcelona Steak Sandwich
+1830,2023-03-10,Nine,Lunch,Grill,Tater Tots
+1831,2023-03-10,Nine,Lunch,Pizza,Cheese Pizza
+1832,2023-03-10,Nine,Lunch,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+1833,2023-03-10,Nine,Lunch,Clean Plate,Allergen Free Halal Chicken Thigh
+1834,2023-03-10,Nine,Lunch,Clean Plate,Steamed Rice
+1835,2023-03-10,Nine,Lunch,Clean Plate,Tofu with Kosher Salt
+1836,2023-03-10,Nine,Lunch,Bakery,Cream Cheese Swirled Brownie
+1837,2023-03-10,Nine,Lunch,Open Bars,Bar Pasta
+1838,2023-03-10,Nine,Lunch,Open Bars,Bolognese Sauce
+1839,2023-03-10,Nine,Lunch,Open Bars,Cheese Tortellini
+1840,2023-03-10,Nine,Lunch,Open Bars,Cheesy Garlic Bread Sticks
+1841,2023-03-10,Nine,Lunch,Open Bars,Condiments
+1842,2023-03-10,Nine,Lunch,Open Bars,Gluten Free Rotini Pasta
+1843,2023-03-10,Nine,Lunch,Open Bars,Marinara Sauce
+1844,2023-03-10,Nine,Lunch,Open Bars,Penne
+1845,2023-03-10,Nine,Lunch,Open Bars,Steamed Green Beans
+1846,2023-03-10,Nine,Dinner,Soups,Mushroom & Barley Soup
+1847,2023-03-10,Nine,Dinner,Soups,Thai Coconut Curry Chicken Soup
+1848,2023-03-10,Nine,Dinner,Entrees,Apple Honey Ginger Pork Loin
+1849,2023-03-10,Nine,Dinner,Entrees,Garlic Thyme Mushrooms
+1850,2023-03-10,Nine,Dinner,Entrees,Red Parslied Potatoes and Olive Oil
+1851,2023-03-10,Nine,Dinner,Entrees,Vegan Collard Greens
+1852,2023-03-10,Nine,Dinner,Pizza,Cheese Pizza
+1853,2023-03-10,Nine,Dinner,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+1854,2023-03-10,Nine,Dinner,Clean Plate,Allergen Free Halal Chicken Thigh
+1855,2023-03-10,Nine,Dinner,Clean Plate,Steamed Rice
+1856,2023-03-10,Nine,Dinner,Clean Plate,Tofu with Kosher Salt
+1857,2023-03-10,Nine,Dinner,Bakery,Chocolate Cream Pie
+1858,2023-03-10,Nine,Dinner,Bakery,White Cake with Chocolate Frosting
+1859,2023-03-10,Nine,Dinner,Open Bars,BAR Wings
+1860,2023-03-10,Nine,Dinner,Open Bars,BBQ Wings
+1861,2023-03-10,Nine,Dinner,Open Bars,Buffalo Cauliflower
+1862,2023-03-10,Nine,Dinner,Open Bars,Condiments
+1863,2023-03-10,Nine,Dinner,Open Bars,Hawaiian Coleslaw
+1864,2023-03-10,Nine,Dinner,Open Bars,Hot 'N Spicy Wings
+1865,2023-03-10,Nine,Dinner,Open Bars,Teriyaki Glazed Wings
+1866,2023-03-10,Nine,Dinner,Open Bars,Vegan Tenders
+1867,2023-03-10,Nine,Late Night,Pizza,Cheese Pizza
+1868,2023-03-10,Nine,Late Night,Pizza,Cilantro Flatbread with Red Onions and Mushrooms
+1869,2023-03-10,Nine,Late Night,Clean Plate,Allergen Free Halal Chicken Thigh
+1870,2023-03-10,Nine,Late Night,Clean Plate,Tofu with Kosher Salt
+1871,2023-03-10,Nine,Late Night,Open Bars,BAR Wings
+1872,2023-03-10,Nine,Late Night,Open Bars,BBQ Wings
+1873,2023-03-10,Nine,Late Night,Open Bars,Buffalo Cauliflower
+1874,2023-03-10,Nine,Late Night,Open Bars,Condiments
+1875,2023-03-10,Nine,Late Night,Open Bars,Hawaiian Coleslaw
+1876,2023-03-10,Nine,Late Night,Open Bars,Hot 'N Spicy Wings
+1877,2023-03-10,Nine,Late Night,Open Bars,Teriyaki Glazed Wings
+1878,2023-03-10,Nine,Late Night,Open Bars,Vegan Tenders
+1879,2023-03-10,Cowell,Breakfast,Breakfast,Blueberry Whole Wheat Pancakes
+1880,2023-03-10,Cowell,Breakfast,Breakfast,Chicken Apple Sausage
+1881,2023-03-10,Cowell,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1882,2023-03-10,Cowell,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1883,2023-03-10,Cowell,Breakfast,Breakfast,Roasted Yukon Gold Potatoes
+1884,2023-03-10,Cowell,Breakfast,Breakfast,"Tempeh, Black Bean and Potato Hash"
+1885,2023-03-10,Cowell,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1886,2023-03-10,Cowell,Breakfast,Clean Plate,Steamed Rice
+1887,2023-03-10,Cowell,Breakfast,Bakery,House Baked Cinnamon Rolls
+1888,2023-03-10,Cowell,Breakfast,Bakery,Maple Pecan Breakfast Bar
+1889,2023-03-10,Cowell,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+1890,2023-03-10,Cowell,Lunch,Soups,Chicken Spaetzle Soup
+1891,2023-03-10,Cowell,Lunch,Soups,Chipotle Cuban Black Bean Soup
+1892,2023-03-10,Cowell,Lunch,Entrees,Garlic Thyme Mushrooms
+1893,2023-03-10,Cowell,Lunch,Entrees,Herbed Lentils
+1894,2023-03-10,Cowell,Lunch,Entrees,Italian Roasted Tofu
+1895,2023-03-10,Cowell,Lunch,Entrees,Marinara Sauce
+1896,2023-03-10,Cowell,Lunch,Entrees,Meatballs
+1897,2023-03-10,Cowell,Lunch,Entrees,Roasted Garlic Oil
+1898,2023-03-10,Cowell,Lunch,Entrees,Steamed Green Beans
+1899,2023-03-10,Cowell,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1900,2023-03-10,Cowell,Lunch,Grill,Tofu with Kosher Salt
+1901,2023-03-10,Cowell,Lunch,Pizza,Cheese Pizza
+1902,2023-03-10,Cowell,Lunch,Pizza,Linguisa Pizza
+1903,2023-03-10,Cowell,Lunch,Clean Plate,Steamed Rice
+1904,2023-03-10,Cowell,Lunch,Bakery,Cream Cheese Swirled Brownie
+1905,2023-03-10,Cowell,Lunch,Open Bars,BAR Wings
+1906,2023-03-10,Cowell,Lunch,Open Bars,BBQ Wings
+1907,2023-03-10,Cowell,Lunch,Open Bars,Baked Beans
+1908,2023-03-10,Cowell,Lunch,Open Bars,Condiments
+1909,2023-03-10,Cowell,Lunch,Open Bars,Hawaiian Coleslaw
+1910,2023-03-10,Cowell,Lunch,Open Bars,Hot 'N Spicy Wings
+1911,2023-03-10,Cowell,Lunch,Open Bars,Teriyaki Glazed Wings
+1912,2023-03-10,Cowell,Lunch,Open Bars,Vegan Tenders
+1913,2023-03-10,Cowell,Lunch,DH Baked,Sugar Cookie
+1914,2023-03-10,Cowell,Dinner,Soups,Chicken Spaetzle Soup
+1915,2023-03-10,Cowell,Dinner,Soups,Chipotle Cuban Black Bean Soup
+1916,2023-03-10,Cowell,Dinner,Entrees,Roasted Cauliflower
+1917,2023-03-10,Cowell,Dinner,Entrees,Spicy Garbanzo and Vegetable Stir Fry
+1918,2023-03-10,Cowell,Dinner,Entrees,Steamed Rice
+1919,2023-03-10,Cowell,Dinner,Entrees,Sustainable Scampi with Tomato and Spinach
+1920,2023-03-10,Cowell,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1921,2023-03-10,Cowell,Dinner,Grill,Tofu with Kosher Salt
+1922,2023-03-10,Cowell,Dinner,Pizza,Cheese Pizza
+1923,2023-03-10,Cowell,Dinner,Pizza,Linguisa Pizza
+1924,2023-03-10,Cowell,Dinner,Clean Plate,Steamed Rice
+1925,2023-03-10,Cowell,Dinner,Bakery,Chocolate Cream Pie
+1926,2023-03-10,Cowell,Dinner,Bakery,White Cake with Chocolate Frosting
+1927,2023-03-10,Cowell,Dinner,Open Bars,BAR Yakisoba Noodles
+1928,2023-03-10,Cowell,Dinner,Open Bars,Char Siu Chicken
+1929,2023-03-10,Cowell,Dinner,Open Bars,Char Siu Gardein
+1930,2023-03-10,Cowell,Dinner,Open Bars,Char Siu Sauce
+1931,2023-03-10,Cowell,Dinner,Open Bars,Condiments
+1932,2023-03-10,Cowell,Dinner,Open Bars,Sauteed Bok Choy and Carrots with Sesame
+1933,2023-03-10,Cowell,Dinner,Open Bars,Sesame Yakisoba Noodles
+1934,2023-03-10,Cowell,Late Night,Grill,Allergen Free Halal Chicken Thigh
+1935,2023-03-10,Cowell,Late Night,Grill,Beef and Lamb Gyro
+1936,2023-03-10,Cowell,Late Night,Grill,Couscous & Tomato Salad
+1937,2023-03-10,Cowell,Late Night,Grill,Tofu with Kosher Salt
+1938,2023-03-10,Cowell,Late Night,Pizza,Cheese Pizza
+1939,2023-03-10,Cowell,Late Night,Pizza,Linguisa Pizza
+1940,2023-03-10,Cowell,Late Night,Open Bars,BAR Yakisoba Noodles
+1941,2023-03-10,Cowell,Late Night,Open Bars,Char Siu Chicken
+1942,2023-03-10,Cowell,Late Night,Open Bars,Char Siu Gardein
+1943,2023-03-10,Cowell,Late Night,Open Bars,Char Siu Sauce
+1944,2023-03-10,Cowell,Late Night,Open Bars,Condiments
+1945,2023-03-10,Cowell,Late Night,Open Bars,Sauteed Bok Choy and Carrots with Sesame
+1946,2023-03-10,Cowell,Late Night,Open Bars,Sesame Yakisoba Noodles
+1947,2023-03-10,Cowell,Late Night,DH Baked,Mint Condition Pacific Cookie Co.
+1948,2023-03-10,Cowell,Late Night,DH Baked,Sugar Cookie
+1949,2023-03-10,Merrill,Breakfast,Breakfast,Biscuit and Gravy
+1950,2023-03-10,Merrill,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+1951,2023-03-10,Merrill,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+1952,2023-03-10,Merrill,Breakfast,Breakfast,Sausage Patties
+1953,2023-03-10,Merrill,Breakfast,Breakfast,"Sweet Potato, Black Bean, and Kale Hash"
+1954,2023-03-10,Merrill,Breakfast,Breakfast,Tater Tots
+1955,2023-03-10,Merrill,Breakfast,Entrees,Cage-Free Scrambled Eggs
+1956,2023-03-10,Merrill,Breakfast,Clean Plate,Steamed Rice
+1957,2023-03-10,Merrill,Breakfast,Bakery,House Baked Cinnamon Rolls
+1958,2023-03-10,Merrill,Breakfast,Bakery,Maple Pecan Breakfast Bar
+1959,2023-03-10,Merrill,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+1960,2023-03-10,Merrill,Lunch,Soups,Organic Kale and Sweet Potato Soup
+1961,2023-03-10,Merrill,Lunch,Soups,Turkey Noodle Soup
+1962,2023-03-10,Merrill,Lunch,Entrees,Grilled Huli Huli Chicken
+1963,2023-03-10,Merrill,Lunch,Entrees,Hawaiian Coleslaw
+1964,2023-03-10,Merrill,Lunch,Entrees,Roasted Zucchini and Peppers
+1965,2023-03-10,Merrill,Lunch,Entrees,Sticky Rice
+1966,2023-03-10,Merrill,Lunch,Entrees,Teriyaki Tofu
+1967,2023-03-10,Merrill,Lunch,Grill,Allergen Free Halal Chicken Thigh
+1968,2023-03-10,Merrill,Lunch,Grill,Tofu with Kosher Salt
+1969,2023-03-10,Merrill,Lunch,Pizza,Bacon and Ranch Pizza
+1970,2023-03-10,Merrill,Lunch,Pizza,Cheese Pizza
+1971,2023-03-10,Merrill,Lunch,Clean Plate,Steamed Rice
+1972,2023-03-10,Merrill,Lunch,Bakery,Cream Cheese Swirled Brownie
+1973,2023-03-10,Merrill,Lunch,Open Bars,Chicken For Pho
+1974,2023-03-10,Merrill,Lunch,Open Bars,Condiments
+1975,2023-03-10,Merrill,Lunch,Open Bars,Pho Rice Noodle
+1976,2023-03-10,Merrill,Lunch,Open Bars,Steamed Bok Choy
+1977,2023-03-10,Merrill,Lunch,Open Bars,Tofu For Pho
+1978,2023-03-10,Merrill,Lunch,Open Bars,Vietnamese Pho Broth
+1979,2023-03-10,Merrill,Lunch,Open Bars,Vietnamese Pho Noodle Bar
+1980,2023-03-10,Merrill,Lunch,DH Baked,Sugar Cookie
+1981,2023-03-10,Merrill,Dinner,Soups,Organic Kale and Sweet Potato Soup
+1982,2023-03-10,Merrill,Dinner,Soups,Turkey Noodle Soup
+1983,2023-03-10,Merrill,Dinner,Entrees,Asian Baked Tofu
+1984,2023-03-10,Merrill,Dinner,Entrees,Honey Sesame Cod
+1985,2023-03-10,Merrill,Dinner,Entrees,Roasted Broccoli Rabe
+1986,2023-03-10,Merrill,Dinner,Entrees,Steamed Brown Rice
+1987,2023-03-10,Merrill,Dinner,Grill,Allergen Free Halal Chicken Thigh
+1988,2023-03-10,Merrill,Dinner,Grill,Tofu with Kosher Salt
+1989,2023-03-10,Merrill,Dinner,Pizza,Bacon and Ranch Pizza
+1990,2023-03-10,Merrill,Dinner,Pizza,Cheese Pizza
+1991,2023-03-10,Merrill,Dinner,Clean Plate,Steamed Rice
+1992,2023-03-10,Merrill,Dinner,Bakery,Chocolate Cream Pie
+1993,2023-03-10,Merrill,Dinner,Bakery,White Cake with Chocolate Frosting
+1994,2023-03-10,Merrill,Dinner,Open Bars,BBQ Shredded Pork
+1995,2023-03-10,Merrill,Dinner,Open Bars,Chipotle Vegan Chik'n Strips
+1996,2023-03-10,Merrill,Dinner,Open Bars,Mac & Cheese Bar Condiments
+1997,2023-03-10,Merrill,Dinner,Open Bars,Mac and Cheese Bar
+1998,2023-03-10,Merrill,Dinner,Open Bars,Macaroni & Cheese
+1999,2023-03-10,Merrill,Dinner,Open Bars,Steamed Broccoli
+2000,2023-03-10,Merrill,Dinner,Open Bars,Vegan Macaroni & Cheese
+2001,2023-03-10,Porter,Breakfast,Breakfast,Bob's Red Mill Gluten-Free Pancakes
+2002,2023-03-10,Porter,Breakfast,Breakfast,Cajun Roasted Red Potatoes
+2003,2023-03-10,Porter,Breakfast,Breakfast,Crispy Bacon
+2004,2023-03-10,Porter,Breakfast,Breakfast,Hard-boiled Cage Free Egg (1)
+2005,2023-03-10,Porter,Breakfast,Breakfast,Organic Oatmeal Gluten-Free
+2006,2023-03-10,Porter,Breakfast,Breakfast,Soyrizo Tofu Scramble
+2007,2023-03-10,Porter,Breakfast,Entrees,Cage-Free Scrambled Eggs
+2008,2023-03-10,Porter,Breakfast,Clean Plate,Steamed Rice
+2009,2023-03-10,Porter,Breakfast,Bakery,House Baked Cinnamon Rolls
+2010,2023-03-10,Porter,Breakfast,Bakery,Maple Pecan Breakfast Bar
+2011,2023-03-10,Porter,Breakfast,Bakery,Strawberry Crunch Breakfast Bar
+2012,2023-03-10,Porter,Lunch,Soups,Chicken Tortilla Soup
+2013,2023-03-10,Porter,Lunch,Soups,Garden Vegetable Soup
+2014,2023-03-10,Porter,Lunch,Entrees,Farfalle Pasta
+2015,2023-03-10,Porter,Lunch,Entrees,Gluten Free Penne Pasta
+2016,2023-03-10,Porter,Lunch,Entrees,Marinara Sauce
+2017,2023-03-10,Porter,Lunch,Entrees,Roasted Garlic Oil
+2018,2023-03-10,Porter,Lunch,Entrees,Sauteed Rainbow Chard with Garlic Oil
+2019,2023-03-10,Porter,Lunch,Entrees,White Beans
+2020,2023-03-10,Porter,Lunch,Grill,Allergen Free Halal Chicken Thigh
+2021,2023-03-10,Porter,Lunch,Grill,Tofu with Kosher Salt
+2022,2023-03-10,Porter,Lunch,Pizza,Cheese Pizza
+2023,2023-03-10,Porter,Lunch,Pizza,Combo Meat Pizza
+2024,2023-03-10,Porter,Lunch,Clean Plate,Steamed Rice
+2025,2023-03-10,Porter,Lunch,Open Bars,Bar Indian
+2026,2023-03-10,Porter,Lunch,Open Bars,Basmati Rice Pullao
+2027,2023-03-10,Porter,Lunch,Open Bars,Cauliflower Lentil Dal
+2028,2023-03-10,Porter,Lunch,Open Bars,Chickpea Curry with Tomato and Kale
+2029,2023-03-10,Porter,Lunch,Open Bars,Condiments
+2030,2023-03-10,Porter,Lunch,Open Bars,Original Naan
+2031,2023-03-10,Porter,Lunch,Open Bars,Potato Samosas
+2032,2023-03-10,Porter,Lunch,Open Bars,Tandoori Chicken
+2033,2023-03-10,Porter,Lunch,DH Baked,Sugar Cookie
+2034,2023-03-10,Porter,Dinner,Soups,Chicken Tortilla Soup
+2035,2023-03-10,Porter,Dinner,Soups,Garden Vegetable Soup
+2036,2023-03-10,Porter,Dinner,Entrees,Italian Roasted Squash and Carrots
+2037,2023-03-10,Porter,Dinner,Entrees,Soft Polenta
+2038,2023-03-10,Porter,Dinner,Entrees,Sustainable Scampi with Tomato and Spinach
+2039,2023-03-10,Porter,Dinner,Grill,Allergen Free Halal Chicken Thigh
+2040,2023-03-10,Porter,Dinner,Grill,Tofu with Kosher Salt
+2041,2023-03-10,Porter,Dinner,Clean Plate,Steamed Rice
+2042,2023-03-10,Porter,Dinner,Bakery,Chocolate Cream Pie
+2043,2023-03-10,Porter,Dinner,Bakery,White Cake with Chocolate Frosting
+2044,2023-03-10,Porter,Dinner,Open Bars,Beef For Pho
+2045,2023-03-10,Porter,Dinner,Open Bars,Condiments
+2046,2023-03-10,Porter,Dinner,Open Bars,Pho Rice Noodle
+2047,2023-03-10,Porter,Dinner,Open Bars,Steamed Bok Choy
+2048,2023-03-10,Porter,Dinner,Open Bars,Tofu For Pho
+2049,2023-03-10,Porter,Dinner,Open Bars,Vietnamese Pho Broth
+2050,2023-03-10,Porter,Dinner,Open Bars,Vietnamese Pho Noodle Bar
+2051,2023-03-10,Porter,Late Night,Grill,Allergen Free Halal Chicken Thigh
+2052,2023-03-10,Porter,Late Night,Grill,Halal Crispy Chicken Patty Sandwich
+2053,2023-03-10,Porter,Late Night,Grill,Sidewinder Fry
+2054,2023-03-10,Porter,Late Night,Grill,Tofu with Kosher Salt
+2055,2023-03-10,Porter,Late Night,Pizza,Cheese Pizza
+2056,2023-03-10,Porter,Late Night,Pizza,Combo Meat Pizza
+2057,2023-03-10,Porter,Late Night,Open Bars,Beef For Pho
+2058,2023-03-10,Porter,Late Night,Open Bars,Condiments
+2059,2023-03-10,Porter,Late Night,Open Bars,Pho Rice Noodle
+2060,2023-03-10,Porter,Late Night,Open Bars,Steamed Bok Choy
+2061,2023-03-10,Porter,Late Night,Open Bars,Tofu For Pho
+2062,2023-03-10,Porter,Late Night,Open Bars,Vietnamese Pho Broth
+2063,2023-03-10,Porter,Late Night,Open Bars,Vietnamese Pho Noodle Bar
