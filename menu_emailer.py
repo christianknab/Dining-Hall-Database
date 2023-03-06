@@ -45,7 +45,8 @@ def menu_scrape():
                 if index == 0:
                     options = date_option.locator("option").all_inner_texts()
                     for item in options:
-                        if str(datetime.date.day) in item:
+                        # temp = str(datetime.date.today().strftime('%e'))
+                        if str(datetime.date.today().strftime('%e')) in item:
                             index = options.index(item)                 # find index of current day's date
                             break
                 date_option.select_option(index=index)                  # select day
@@ -124,7 +125,8 @@ for date, names in hall_menus.items():
                         cur.execute('SELECT * FROM menu WHERE date=? AND name=? AND meal=? AND category=? AND item=?;', (date, name, meal, cat, item))
                         record = cur.fetchone()
                         if record:
-                            print("record already exists")
+                            # print("record already exists")
+                            continue
                         else:
                             conn.execute('INSERT INTO menu (date, name, meal, category, item) VALUES (?, ?, ?, ?, ?);', (date, name, meal, cat, item))
                             # conn.execute('INSERT OR IGNORE INTO menu (date, name, meal, category, item) VALUES (?, ?, ?, ?, ?)', (date, name, meal, cat, item))
