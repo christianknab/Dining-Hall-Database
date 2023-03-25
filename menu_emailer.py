@@ -59,6 +59,9 @@ def menu_scrape():
 
             menuTable = soup.find('table',  {'bordercolor': '#CCC'})    # Finds meal table
 
+            if menuTable == None:                                       # Error check if hall is closed
+                continue
+            
             for meal in menuTable:                                      # For each item in the meal table, strip empty text
                 text = meal.text.strip()                                # and save the menu item
                 meal.string = re.sub(r"[\n][\W]+[^\w]", "\n", text)

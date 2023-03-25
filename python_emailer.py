@@ -1,6 +1,8 @@
 import smtplib
-import ssl
 from email.message import EmailMessage
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from login_credentials import me_email, you_email, login_pass
 import sqlite3
 import datetime
 
@@ -9,38 +11,57 @@ curr = conn.cursor()
 
 today = datetime.date.today()
 
-data = curr.execute("SELECT date, name, meal, item FROM menu WHERE (item LIKE '%Hash%Brown%' OR item LIKE '%tater%') AND date >= ?", (today,))
+data = curr.execute("SELECT date, name, meal, item FROM menu WHERE (item LIKE '%Hash%Brown%' OR item LIKE '%tater%' OR item LIKE '%lasagna%') AND date >= ?", (today,))
 
-string = ''
+string = '<head>Tater Tot, Hashbrown, and Lasagna Tracker For This Week</head><body>'
 for row in data:
     i = 0
     for col in row:
         if i == 0:
             if col not in string:
-                string += col
-                string += '\n'
+                string += '<br><b>' + col + '</b><br>'
+        elif i == 1:
+            string += '--' + col + '--<br>'
+        elif i == 2:
+            string += col + ': '
         else:
-            string += col
-        string += '\n'
+            string += col + '<br>'
         i += 1
+    # string += '</br>'
+string += f'</body><br>With Love,<br>UCSC Menu App<br><br>Please do not hesitate to respond with any questions or concerns.<br>Data as of {today}.'
 
-print(string)
+# me == my email address
+# you == recipient's email address
+me = me_email
+you = you_email
 
-# email_sender = 'ucscmenuapp@gmail.com'
-# email_password = 'zhubiwjiwzhktqct'
-# email_receiver = 'christiantknab@gmail.com'
 
-# subject = 'Hello World'
-# body = """This email was sent using Python :)"""
+# Create message container - the correct MIME type is multipart/alternative.
+msg = MIMEMultipart('alternative')
+msg['Subject'] = "Tater Tot, Hashbrown, and Lasagna Tracker - Week of " + str(datetime.date.today())
+msg['From'] = me
+msg['To'] = you
 
-# em = EmailMessage()
-# em['From'] = email_sender
-# em['To'] = email_receiver
-# em['Subject'] = subject
-# em.set_content(body)
+# Create the body of the message (a plain-text and an HTML version).
+html = string
 
-# context = ssl.create_default_context()
+# Record the MIME types of both parts - text/plain and text/html.
+part1 = MIMEText(string, 'plain')
+part2 = MIMEText(html, 'html')
 
-# with smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context) as smtp:
-#     smtp.login(email_sender, email_password)
-#     smtp.sendmail(email_sender, email_receiver, em.as_string())
+# Attach parts into message container.
+# According to RFC 2046, the last part of a multipart message, in this case
+# the HTML message, is best and preferred.
+msg.attach(part1)
+msg.attach(part2)
+
+
+mail = smtplib.SMTP('smtp.gmail.com', 587)
+
+mail.ehlo()
+
+mail.starttls()
+
+mail.login(str(me), login_pass)
+mail.sendmail(me, you, msg.as_string())
+mail.quit()
